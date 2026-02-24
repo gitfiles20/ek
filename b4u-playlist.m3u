@@ -1,6 +1,562 @@
 #EXTM3U
 # Total Channels: 10233
 
+
+#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="T20 - 2026 - ENG" tvg-logo="" group-title="SPORTS | CRICKET",T20 - 2026 - ENG
+https://b4u.link-etvv.workers.dev/10350.m3u8
+#EXTINF:-1 tvg-id="in_starsports1hdhindi.in" tvg-name="PTV CRICKET" tvg-logo="" group-title="SPORTS | CRICKET",PTV CRICKET
+https://b4u.link-etvv.workers.dev/24044.m3u8
+#EXTINF:-1 tvg-id="in_starsports1hdhindi.in" tvg-name="T20 2026 - HIN" tvg-logo="" group-title="SPORTS | CRICKET",T20 2026 - HIN
+https://b4u.link-etvv.workers.dev/24014.m3u8
+#EXTINF:-1 tvg-id="in_starsportsselect1.in" tvg-name="T20 2026 - ASTRO" tvg-logo="" group-title="SPORTS | CRICKET",T20 2026 - ASTRO
+https://b4u.link-etvv.workers.dev/10356.m3u8
+#EXTINF:-1 tvg-id="in_starsports1hdhindi.in" tvg-name="T20 2026 - ENG*" tvg-logo="" group-title="SPORTS | CRICKET",T20 2026 - ENG*
+https://b4u.link-etvv.workers.dev/36013.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="STAR 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR 4K
+https://b4u.link-etvv.workers.dev/24039.m3u8
+#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="WILLOW CRICKET USA" tvg-logo="" group-title="SPORTS | CRICKET",WILLOW CRICKET USA
+https://b4u.link-etvv.workers.dev/747.m3u8
+#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="WILLOW CANADA 4K" tvg-logo="" group-title="SPORTS | CRICKET",WILLOW CANADA 4K
+https://b4u.link-etvv.workers.dev/10359.m3u8
+#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="WILLOW EXTRA" tvg-logo="" group-title="SPORTS | CRICKET",WILLOW EXTRA
+https://b4u.link-etvv.workers.dev/5676.m3u8
+#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="WILLOW SPORTS" tvg-logo="" group-title="SPORTS | CRICKET",WILLOW SPORTS
+https://b4u.link-etvv.workers.dev/54774.m3u8
+#EXTINF:-1 tvg-id="in_sonysixhd.in" tvg-name="SONY SIX 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SIX 4K
+https://b4u.link-etvv.workers.dev/709.m3u8
+#EXTINF:-1 tvg-id="in_sonyten1hd.in" tvg-name="SONY SPORTS TEN 1 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SPORTS TEN 1 4K
+https://b4u.link-etvv.workers.dev/673.m3u8
+#EXTINF:-1 tvg-id="in_sonyten2hd.in" tvg-name="SONY SPORTS TEN 2 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SPORTS TEN 2 4K
+https://b4u.link-etvv.workers.dev/674.m3u8
+#EXTINF:-1 tvg-id="in_sonyten3hd.in" tvg-name="SONY SPORTS TEN 3 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SPORTS TEN 3 4K
+https://b4u.link-etvv.workers.dev/675.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SONY SPORTS TEN 4 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SPORTS TEN 4 4K
+https://b4u.link-etvv.workers.dev/24069.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="RUSH SPORTS CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",RUSH SPORTS CRICKET 4K
+https://b4u.link-etvv.workers.dev/10344.m3u8
+#EXTINF:-1 tvg-id="flowsports.jm" tvg-name="FLOW SPORTS 4K" tvg-logo="" group-title="SPORTS | CRICKET",FLOW SPORTS 4K
+https://b4u.link-etvv.workers.dev/10293.m3u8
+#EXTINF:-1 tvg-id="au_foxcrickethd.au" tvg-name="FOX CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",FOX CRICKET 4K
+https://b4u.link-etvv.workers.dev/5677.m3u8
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="ASTRO CRICKET" tvg-logo="" group-title="SPORTS | CRICKET",ASTRO CRICKET
+https://b4u.link-etvv.workers.dev/5651.m3u8
+#EXTINF:-1 tvg-id="sf_supersportcricket.za" tvg-name="SUPERSPORTS CRICKET 2 4K" tvg-logo="" group-title="SPORTS | CRICKET",SUPERSPORTS CRICKET 2 4K
+https://b4u.link-etvv.workers.dev/6775.m3u8
+#EXTINF:-1 tvg-id="in_starsportsselect1.in" tvg-name="STAR SPORTS SELECT 1" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS SELECT 1
+https://b4u.link-etvv.workers.dev/5305.m3u8
+#EXTINF:-1 tvg-id="in_starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS SELECT 1 4K
+https://b4u.link-etvv.workers.dev/5675.m3u8
+#EXTINF:-1 tvg-id="in_starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS SELECT 2 4K
+https://b4u.link-etvv.workers.dev/710.m3u8
+#EXTINF:-1 tvg-id="in_starsportsfirst.in" tvg-name="STAR SPORTS FIRST" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS FIRST
+https://b4u.link-etvv.workers.dev/3769.m3u8
+#EXTINF:-1 tvg-id="in_starsports1hd.in" tvg-name="STAR SPORTS 1 ENGLISH 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 ENGLISH 4K
+https://b4u.link-etvv.workers.dev/669.m3u8
+#EXTINF:-1 tvg-id="in_starsports1hdhindi.in" tvg-name="STAR SPORTS 1 HINDI 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 HINDI 4K
+https://b4u.link-etvv.workers.dev/650.m3u8
+#EXTINF:-1 tvg-id="in_starsports1tamil.in" tvg-name="STAR SPORTS 1 TAMIL" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 TAMIL
+https://b4u.link-etvv.workers.dev/23989.m3u8
+#EXTINF:-1 tvg-id="in_starsports1telugu.in" tvg-name="STAR SPORTS 1 TELUGU" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 TELUGU
+https://b4u.link-etvv.workers.dev/23994.m3u8
+#EXTINF:-1 tvg-id="in_starsports1bangla.in" tvg-name="STAR SPORTS 1 BANGLA" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 BANGLA
+https://b4u.link-etvv.workers.dev/23999.m3u8
+#EXTINF:-1 tvg-id="in_starsports1kannada.in" tvg-name="STAR SPORTS 1 KANNADA" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 KANNADA
+https://b4u.link-etvv.workers.dev/24004.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="STAR SPORTS 1 MALAYALAM" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 MALAYALAM
+https://b4u.link-etvv.workers.dev/24064.m3u8
+#EXTINF:-1 tvg-id="in_starsports2hd.in" tvg-name="STAR SPORTS 2 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 2 4K
+https://b4u.link-etvv.workers.dev/670.m3u8
+#EXTINF:-1 tvg-id="in_starsports3.in" tvg-name="STAR SPORTS 3" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 3
+https://b4u.link-etvv.workers.dev/858.m3u8
+#EXTINF:-1 tvg-id="uk_skysportscricket.uk" tvg-name="SKY SPORTS CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET 4K
+https://b4u.link-etvv.workers.dev/5326.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="TEN SPORTS PAKISTAN" tvg-logo="" group-title="SPORTS | CRICKET",TEN SPORTS PAKISTAN
+https://b4u.link-etvv.workers.dev/10347.m3u8
+#EXTINF:-1 tvg-id="hubsports4.sg" tvg-name="HUB SPORTS 4 CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",HUB SPORTS 4 CRICKET 4K
+https://b4u.link-etvv.workers.dev/32504.m3u8
+#EXTINF:-1 tvg-id="hubsports5.sg" tvg-name="HUB SPORTS 5 CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",HUB SPORTS 5 CRICKET 4K
+https://b4u.link-etvv.workers.dev/32510.m3u8
+#EXTINF:-1 tvg-id="in_sports18.in" tvg-name="SPORTS 18 ENG 4K" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 ENG 4K
+https://b4u.link-etvv.workers.dev/3448.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPORTS 18 TWO" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 TWO
+https://b4u.link-etvv.workers.dev/10353.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPORTS 18 THREE" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 THREE
+https://b4u.link-etvv.workers.dev/24019.m3u8
+#EXTINF:-1 tvg-id="in_sports18.in" tvg-name="SPORTS 18 TAMIL 4K" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 TAMIL 4K
+https://b4u.link-etvv.workers.dev/32516.m3u8
+#EXTINF:-1 tvg-id="in_sports18.in" tvg-name="SPORTS 18 TELUGU 4K" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 TELUGU 4K
+https://b4u.link-etvv.workers.dev/http://glspr.packetcdn.me:9110/CRICKET_SPORTS_18_TEL/index.m3u8.m3u8
+#EXTINF:-1 tvg-id="in_sports18.in" tvg-name="SPORTS 18 KANNADA 4K" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 KANNADA 4K
+https://b4u.link-etvv.workers.dev/http://glspr.packetcdn.me:9110/CRICKET_SPORTS_18_KANNADA/index.m3u8.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="T SPORTS HD" tvg-logo="" group-title="SPORTS | CRICKET",T SPORTS HD
+https://b4u.link-etvv.workers.dev/5678.m3u8
+#EXTINF:-1 tvg-id="in_ddsports.in" tvg-name="DD SPORTS" tvg-logo="" group-title="SPORTS | CRICKET",DD SPORTS
+https://b4u.link-etvv.workers.dev/909.m3u8
+#EXTINF:-1 tvg-id="in_dsport.in" tvg-name="D SPORTS" tvg-logo="" group-title="SPORTS | CRICKET",D SPORTS
+https://b4u.link-etvv.workers.dev/841.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="ATN CRICKET PLUS" tvg-logo="" group-title="SPORTS | CRICKET",ATN CRICKET PLUS
+https://b4u.link-etvv.workers.dev/8561.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="GEO SUPER HD" tvg-logo="" group-title="SPORTS | CRICKET",GEO SUPER HD
+https://b4u.link-etvv.workers.dev/2208.m3u8
+#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="PTV SPORTS" tvg-logo="" group-title="SPORTS | CRICKET",PTV SPORTS
+https://b4u.link-etvv.workers.dev/2343.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="CBN NETWORK" tvg-logo="" group-title="SPORTS | CRICKET",CBN NETWORK
+https://b4u.link-etvv.workers.dev/8557.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="A SPORTS PK" tvg-logo="" group-title="SPORTS | CRICKET",A SPORTS PK
+https://b4u.link-etvv.workers.dev/11644.m3u8
+#EXTINF:-1 tvg-id="ca_tsn1.ca" tvg-name="TSN 1 FHD" tvg-logo="" group-title="SPORTS",TSN 1 FHD
+https://b4u.link-etvv.workers.dev/5322.m3u8
+#EXTINF:-1 tvg-id="ca_tsn2.ca" tvg-name="TSN 2 FHD" tvg-logo="" group-title="SPORTS",TSN 2 FHD
+https://b4u.link-etvv.workers.dev/5333.m3u8
+#EXTINF:-1 tvg-id="ca_tsn3.ca" tvg-name="TSN 3 FHD" tvg-logo="" group-title="SPORTS",TSN 3 FHD
+https://b4u.link-etvv.workers.dev/5335.m3u8
+#EXTINF:-1 tvg-id="ca_tsn4.ca" tvg-name="TSN 4 FHD" tvg-logo="" group-title="SPORTS",TSN 4 FHD
+https://b4u.link-etvv.workers.dev/5349.m3u8
+#EXTINF:-1 tvg-id="ca_tsn4.ca" tvg-name="TSN 4 4K" tvg-logo="" group-title="SPORTS",TSN 4 4K
+https://b4u.link-etvv.workers.dev/60306.m3u8
+#EXTINF:-1 tvg-id="ca_tsn5.ca" tvg-name="TSN 5 FHD" tvg-logo="" group-title="SPORTS",TSN 5 FHD
+https://b4u.link-etvv.workers.dev/5321.m3u8
+#EXTINF:-1 tvg-id="ca_sportsnetwest.ca" tvg-name="SPORTSNET 4K" tvg-logo="" group-title="SPORTS",SPORTSNET 4K
+https://b4u.link-etvv.workers.dev/60312.m3u8
+#EXTINF:-1 tvg-id="ca_sportsneteast.ca" tvg-name="SPORTSNET EAST" tvg-logo="" group-title="SPORTS",SPORTSNET EAST
+https://b4u.link-etvv.workers.dev/5299.m3u8
+#EXTINF:-1 tvg-id="ca_sportsnetwest.ca" tvg-name="SPORTSNET WEST" tvg-logo="" group-title="SPORTS",SPORTSNET WEST
+https://b4u.link-etvv.workers.dev/7239.m3u8
+#EXTINF:-1 tvg-id="ca_sportsnetpacific.ca" tvg-name="SPORTSNET PACIFIC" tvg-logo="" group-title="SPORTS",SPORTSNET PACIFIC
+https://b4u.link-etvv.workers.dev/5295.m3u8
+#EXTINF:-1 tvg-id="ca_sportsnetone.ca" tvg-name="SPORTSNET ONE" tvg-logo="" group-title="SPORTS",SPORTSNET ONE
+https://b4u.link-etvv.workers.dev/5294.m3u8
+#EXTINF:-1 tvg-id="ca_sportsnetone.ca" tvg-name="SPORTSNET ONE 4K" tvg-logo="" group-title="SPORTS",SPORTSNET ONE 4K
+https://b4u.link-etvv.workers.dev/60318.m3u8
+#EXTINF:-1 tvg-id="ca_sportsnetontario.ca" tvg-name="SPORTSNET ONTARIO" tvg-logo="" group-title="SPORTS",SPORTSNET ONTARIO
+https://b4u.link-etvv.workers.dev/5298.m3u8
+#EXTINF:-1 tvg-id="ca_sportsnetworld.ca" tvg-name="SPORTSNET WORLD" tvg-logo="" group-title="SPORTS",SPORTSNET WORLD
+https://b4u.link-etvv.workers.dev/5296.m3u8
+#EXTINF:-1 tvg-id="ca_sportsnet360.ca" tvg-name="SPORTSNET 360" tvg-logo="" group-title="SPORTS",SPORTSNET 360
+https://b4u.link-etvv.workers.dev/5297.m3u8
+#EXTINF:-1 tvg-id="ca_nbatv.ca" tvg-name="NBA TV CA" tvg-logo="" group-title="SPORTS",NBA TV CA
+https://b4u.link-etvv.workers.dev/5254.m3u8
+#EXTINF:-1 tvg-id="us_nbatv.us" tvg-name="NBA TV US" tvg-logo="" group-title="SPORTS",NBA TV US
+https://b4u.link-etvv.workers.dev/5255.m3u8
+#EXTINF:-1 tvg-id="us_nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="" group-title="SPORTS",NFL NETWORK
+https://b4u.link-etvv.workers.dev/5034.m3u8
+#EXTINF:-1 tvg-id="us_nflredzone.us" tvg-name="NFL REDZONE" tvg-logo="" group-title="SPORTS",NFL REDZONE
+https://b4u.link-etvv.workers.dev/5650.m3u8
+#EXTINF:-1 tvg-id="uk_skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS MAIN EVENT FHD
+https://b4u.link-etvv.workers.dev/5311.m3u8
+#EXTINF:-1 tvg-id="uk_skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE FHD
+https://b4u.link-etvv.workers.dev/5304.m3u8
+#EXTINF:-1 tvg-id="uk_skysportsgolf.uk" tvg-name="SKY SPORTS GOLF FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS GOLF FHD
+https://b4u.link-etvv.workers.dev/5342.m3u8
+#EXTINF:-1 tvg-id="uk_skysportsaction.uk" tvg-name="SKY SPORTS ACTION FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS ACTION FHD
+https://b4u.link-etvv.workers.dev/5315.m3u8
+#EXTINF:-1 tvg-id="uk_skysportsf1.uk" tvg-name="SKY SPORTS F1 FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS F1 FHD
+https://b4u.link-etvv.workers.dev/5316.m3u8
+#EXTINF:-1 tvg-id="uk_skysportsfootball.uk" tvg-name="SKY SPORTS FOOTBALL FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS FOOTBALL FHD
+https://b4u.link-etvv.workers.dev/5312.m3u8
+#EXTINF:-1 tvg-id="uk_skysportsnews.uk" tvg-name="SKY SPORTS NEWS FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS NEWS FHD
+https://b4u.link-etvv.workers.dev/5310.m3u8
+#EXTINF:-1 tvg-id="uk_skysportsarena.uk" tvg-name="SKY SPORTS PLUS FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS PLUS FHD
+https://b4u.link-etvv.workers.dev/5314.m3u8
+#EXTINF:-1 tvg-id="uk_skysportsmix.uk" tvg-name="SKY SPORTS MIX FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS MIX FHD
+https://b4u.link-etvv.workers.dev/5317.m3u8
+#EXTINF:-1 tvg-id="uk_skysportsracing.uk" tvg-name="SKY SPORTS RACING" tvg-logo="" group-title="SPORTS",SKY SPORTS RACING
+https://b4u.link-etvv.workers.dev/10118.m3u8
+#EXTINF:-1 tvg-id="us_golfchannel.us" tvg-name="NBC GOLF" tvg-logo="" group-title="SPORTS",NBC GOLF
+https://b4u.link-etvv.workers.dev/5539.m3u8
+#EXTINF:-1 tvg-id="us_golfchannel.us" tvg-name="THE GOLF CHANNEL HD" tvg-logo="" group-title="SPORTS",THE GOLF CHANNEL HD
+https://b4u.link-etvv.workers.dev/5250.m3u8
+#EXTINF:-1 tvg-id="ca_fightnetwork.ca" tvg-name="FIGHT NETWORK FHD" tvg-logo="" group-title="SPORTS",FIGHT NETWORK FHD
+https://b4u.link-etvv.workers.dev/7245.m3u8
+#EXTINF:-1 tvg-id="us_goltv.us" tvg-name="GOL TV" tvg-logo="" group-title="SPORTS",GOL TV
+https://b4u.link-etvv.workers.dev/7236.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="B TV 4K" tvg-logo="" group-title="SPORTS",B TV 4K
+https://b4u.link-etvv.workers.dev/7240.m3u8
+#EXTINF:-1 tvg-id="uk_boxnation.uk" tvg-name="BOX NATION" tvg-logo="" group-title="SPORTS",BOX NATION
+https://b4u.link-etvv.workers.dev/5346.m3u8
+#EXTINF:-1 tvg-id="us_bigtennetwork.us" tvg-name="BIG TEN NETWORK" tvg-logo="" group-title="SPORTS",BIG TEN NETWORK
+https://b4u.link-etvv.workers.dev/5216.m3u8
+#EXTINF:-1 tvg-id="us_gameplus.us" tvg-name="FNTSY SPORTS NETWORK (GAME PLUS)" tvg-logo="" group-title="SPORTS",FNTSY SPORTS NETWORK (GAME PLUS)
+https://b4u.link-etvv.workers.dev/5219.m3u8
+#EXTINF:-1 tvg-id="us_longhonrnetwork.us" tvg-name="LONGHORN NETWORK" tvg-logo="" group-title="SPORTS",LONGHORN NETWORK
+https://b4u.link-etvv.workers.dev/5251.m3u8
+#EXTINF:-1 tvg-id="us_nhlnetwork.us" tvg-name="NHL NETWORK" tvg-logo="" group-title="SPORTS",NHL NETWORK
+https://b4u.link-etvv.workers.dev/5252.m3u8
+#EXTINF:-1 tvg-id="us_nhlnetwork.us" tvg-name="NHL NETWORK ALTERNATE" tvg-logo="" group-title="SPORTS",NHL NETWORK ALTERNATE
+https://b4u.link-etvv.workers.dev/5253.m3u8
+#EXTINF:-1 tvg-id="ca_nhlcentreice.ca" tvg-name="NHL CENTRE ICE FULL PACKAGE" tvg-logo="" group-title="SPORTS",NHL CENTRE ICE FULL PACKAGE
+https://b4u.link-etvv.workers.dev/18332.m3u8
+#EXTINF:-1 tvg-id="us_olympicchannel.us" tvg-name="OLYMPIC CHANNEL" tvg-logo="" group-title="SPORTS",OLYMPIC CHANNEL
+https://b4u.link-etvv.workers.dev/5256.m3u8
+#EXTINF:-1 tvg-id="us_secnetwork.us" tvg-name="SEC NETWORK" tvg-logo="" group-title="SPORTS",SEC NETWORK
+https://b4u.link-etvv.workers.dev/5257.m3u8
+#EXTINF:-1 tvg-id="ca_tvasports.ca" tvg-name="TVA SPORTS" tvg-logo="" group-title="SPORTS",TVA SPORTS
+https://b4u.link-etvv.workers.dev/5293.m3u8
+#EXTINF:-1 tvg-id="uk_mutv.uk" tvg-name="MUTV SPORTS" tvg-logo="" group-title="SPORTS",MUTV SPORTS
+https://b4u.link-etvv.workers.dev/5300.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="FANCODE SPORTS" tvg-logo="" group-title="SPORTS",FANCODE SPORTS
+https://b4u.link-etvv.workers.dev/59839.m3u8
+#EXTINF:-1 tvg-id="uk_racinguk.uk" tvg-name="RACING UK" tvg-logo="" group-title="SPORTS",RACING UK
+https://b4u.link-etvv.workers.dev/5214.m3u8
+#EXTINF:-1 tvg-id="us_tvg.us" tvg-name="FANDUEL TV" tvg-logo="" group-title="SPORTS",FANDUEL TV
+https://b4u.link-etvv.workers.dev/3910.m3u8
+#EXTINF:-1 tvg-id="us_tvg2.us" tvg-name="FANDUEL RACING" tvg-logo="" group-title="SPORTS",FANDUEL RACING
+https://b4u.link-etvv.workers.dev/3911.m3u8
+#EXTINF:-1 tvg-id="racing.com.au" tvg-name="RACING AUSTRALIA" tvg-logo="" group-title="SPORTS",RACING AUSTRALIA
+https://b4u.link-etvv.workers.dev/5358.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="NESN" tvg-logo="" group-title="SPORTS",NESN
+https://b4u.link-etvv.workers.dev/4963.m3u8
+#EXTINF:-1 tvg-id="us_newenglandsportsnetworkplus.us" tvg-name="NESN PLUS" tvg-logo="" group-title="SPORTS",NESN PLUS
+https://b4u.link-etvv.workers.dev/4848.m3u8
+#EXTINF:-1 tvg-id="us_yesnetwork.us" tvg-name="YES NETWORK" tvg-logo="" group-title="SPORTS",YES NETWORK
+https://b4u.link-etvv.workers.dev/7169.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="DRAFTKINGS NETWORK" tvg-logo="" group-title="SPORTS",DRAFTKINGS NETWORK
+https://b4u.link-etvv.workers.dev/37237.m3u8
+#EXTINF:-1 tvg-id="us_chsn.us" tvg-name="CHSN" tvg-logo="" group-title="SPORTS",CHSN
+https://b4u.link-etvv.workers.dev/37525.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="PICKLEBALL TV" tvg-logo="" group-title="SPORTS",PICKLEBALL TV
+https://b4u.link-etvv.workers.dev/60264.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SWERVE SPORTS" tvg-logo="" group-title="SPORTS",SWERVE SPORTS
+https://b4u.link-etvv.workers.dev/37555.m3u8
+#EXTINF:-1 tvg-id="us_rootsportsnorthwest.us" tvg-name="ROOT SPORTS NORTTHWEST" tvg-logo="" group-title="SPORTS",ROOT SPORTS NORTTHWEST
+https://b4u.link-etvv.workers.dev/54768.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="RANGERS TV" tvg-logo="" group-title="SPORTS",RANGERS TV
+https://b4u.link-etvv.workers.dev/60205.m3u8
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO FOOTBALL" tvg-logo="" group-title="SPORTS",ASTRO FOOTBALL
+https://b4u.link-etvv.workers.dev/8525.m3u8
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORTS 2" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 2
+https://b4u.link-etvv.workers.dev/8529.m3u8
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORTS 3" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 3
+https://b4u.link-etvv.workers.dev/8533.m3u8
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORTS 4" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 4
+https://b4u.link-etvv.workers.dev/8537.m3u8
+#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="ASTRO SUPER SPORTS 4K UHD" tvg-logo="" group-title="SPORTS",ASTRO SUPER SPORTS 4K UHD
+https://b4u.link-etvv.workers.dev/18280.m3u8
+#EXTINF:-1 tvg-id="us_altitudesport.us" tvg-name="ALTITUDE SPORTS" tvg-logo="" group-title="SPORTS",ALTITUDE SPORTS
+https://b4u.link-etvv.workers.dev/27524.m3u8
+#EXTINF:-1 tvg-id="us_beinsports.us" tvg-name="BEIN SPORTS USA" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA
+https://b4u.link-etvv.workers.dev/8420.m3u8
+#EXTINF:-1 tvg-id="ca_beinsport.ca" tvg-name="BEIN SPORTS CANADA 4K" tvg-logo="" group-title="SPORTS",BEIN SPORTS CANADA 4K
+https://b4u.link-etvv.workers.dev/8424.m3u8
+#EXTINF:-1 tvg-id="us_beinsports.us" tvg-name="BEIN SPORTS USA 1" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 1
+https://b4u.link-etvv.workers.dev/8428.m3u8
+#EXTINF:-1 tvg-id="us_beinsports.us" tvg-name="BEIN SPORTS USA 2" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 2
+https://b4u.link-etvv.workers.dev/8432.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEIN SPORTS USA 3" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 3
+https://b4u.link-etvv.workers.dev/10913.m3u8
+#EXTINF:-1 tvg-id="us_beinsports4.us" tvg-name="BEIN SPORTS USA 4" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 4
+https://b4u.link-etvv.workers.dev/8436.m3u8
+#EXTINF:-1 tvg-id="us_beinsports5.us" tvg-name="BEIN SPORTS USA 5" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 5
+https://b4u.link-etvv.workers.dev/8440.m3u8
+#EXTINF:-1 tvg-id="us_beinsports6.us" tvg-name="BEIN SPORTS USA 6" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 6
+https://b4u.link-etvv.workers.dev/8444.m3u8
+#EXTINF:-1 tvg-id="us_beinsports7.us" tvg-name="BEIN SPORTS USA 7" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 7
+https://b4u.link-etvv.workers.dev/8448.m3u8
+#EXTINF:-1 tvg-id="us_beinsports8.us" tvg-name="BEIN SPORTS USA 8" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 8
+https://b4u.link-etvv.workers.dev/8452.m3u8
+#EXTINF:-1 tvg-id="us_beinsportsxtra.us" tvg-name="BEIN SPORTS USA XTRA" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA XTRA
+https://b4u.link-etvv.workers.dev/8456.m3u8
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS ENGLISH 1" tvg-logo="" group-title="SPORTS",BEIN SPORTS ENGLISH 1
+https://b4u.link-etvv.workers.dev/10904.m3u8
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS ENGLISH 2" tvg-logo="" group-title="SPORTS",BEIN SPORTS ENGLISH 2
+https://b4u.link-etvv.workers.dev/10907.m3u8
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="BEIN SPORTS ENGLISH 3" tvg-logo="" group-title="SPORTS",BEIN SPORTS ENGLISH 3
+https://b4u.link-etvv.workers.dev/10910.m3u8
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="BEIN SPORTS PREMIUM 1" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 1
+https://b4u.link-etvv.workers.dev/12069.m3u8
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="BEIN SPORTS PREMIUM 2" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 2
+https://b4u.link-etvv.workers.dev/12074.m3u8
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="BEIN SPORTS PREMIUM 3" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 3
+https://b4u.link-etvv.workers.dev/12079.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR | BEIN SPORTS 1" tvg-logo="" group-title="SPORTS",FR | BEIN SPORTS 1
+https://b4u.link-etvv.workers.dev/23815.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR | BEIN SPORTS 2" tvg-logo="" group-title="SPORTS",FR | BEIN SPORTS 2
+https://b4u.link-etvv.workers.dev/23820.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR | BEIN SPORTS 3" tvg-logo="" group-title="SPORTS",FR | BEIN SPORTS 3
+https://b4u.link-etvv.workers.dev/23825.m3u8
+#EXTINF:-1 tvg-id="uk_tntsports1.uk" tvg-name="TNT SPORTS 1" tvg-logo="" group-title="SPORTS",TNT SPORTS 1
+https://b4u.link-etvv.workers.dev/5280.m3u8
+#EXTINF:-1 tvg-id="uk_tntsports2.uk" tvg-name="TNT SPORTS 2" tvg-logo="" group-title="SPORTS",TNT SPORTS 2
+https://b4u.link-etvv.workers.dev/5281.m3u8
+#EXTINF:-1 tvg-id="uk_tntsports3.uk" tvg-name="TNT SPORTS 3" tvg-logo="" group-title="SPORTS",TNT SPORTS 3
+https://b4u.link-etvv.workers.dev/5282.m3u8
+#EXTINF:-1 tvg-id="uk_tntsports4.uk" tvg-name="TNT SPORTS 4" tvg-logo="" group-title="SPORTS",TNT SPORTS 4
+https://b4u.link-etvv.workers.dev/5283.m3u8
+#EXTINF:-1 tvg-id="uk_tntsports5.uk" tvg-name="TNT SPORTS 5" tvg-logo="" group-title="SPORTS",TNT SPORTS 5
+https://b4u.link-etvv.workers.dev/59827.m3u8
+#EXTINF:-1 tvg-id="us_cbssportsnetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="SPORTS",CBS SPORTS NETWORK
+https://b4u.link-etvv.workers.dev/5220.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="CBS SPORTS GOLAZO NETWORK" tvg-logo="" group-title="SPORTS",CBS SPORTS GOLAZO NETWORK
+https://b4u.link-etvv.workers.dev/59923.m3u8
+#EXTINF:-1 tvg-id="sf_supersportvariety1.za" tvg-name="AF | SUPERSPORTS VARIETY 1" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 1
+https://b4u.link-etvv.workers.dev/4875.m3u8
+#EXTINF:-1 tvg-id="sf_supersportvariety2.za" tvg-name="AF | SUPERSPORTS VARIETY 2" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 2
+https://b4u.link-etvv.workers.dev/4905.m3u8
+#EXTINF:-1 tvg-id="sf_supersportvariety3.za" tvg-name="AF | SUPERSPORTS VARIETY 3" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 3
+https://b4u.link-etvv.workers.dev/4939.m3u8
+#EXTINF:-1 tvg-id="sf_supersportvariety4.za" tvg-name="AF | SUPERSPORTS VARIETY 4" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 4
+https://b4u.link-etvv.workers.dev/4889.m3u8
+#EXTINF:-1 tvg-id="sf_supersportblitz.za" tvg-name="AF | SUPERSPORTS BLITZ " tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS BLITZ 
+https://b4u.link-etvv.workers.dev/4902.m3u8
+#EXTINF:-1 tvg-id="sf_supersportpremierleague.za" tvg-name="AF | SUPERSPORTS PREMIER LEAGUE" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS PREMIER LEAGUE
+https://b4u.link-etvv.workers.dev/4965.m3u8
+#EXTINF:-1 tvg-id="sf_supersportrugby.za" tvg-name="AF | SUPERSPORTS RUGBY" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS RUGBY
+https://b4u.link-etvv.workers.dev/4930.m3u8
+#EXTINF:-1 tvg-id="sf_supersportfootball.za" tvg-name="AF | SUPERSPORTS FOOTBALL" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS FOOTBALL
+https://b4u.link-etvv.workers.dev/4877.m3u8
+#EXTINF:-1 tvg-id="sf_supersportfootballplus.za" tvg-name="AF | SUPERSPORTS PLAY" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS PLAY
+https://b4u.link-etvv.workers.dev/4885.m3u8
+#EXTINF:-1 tvg-id="sf_supersportlaliga.za" tvg-name="AF | SUPERSPORTS LA LAGIA" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS LA LAGIA
+https://b4u.link-etvv.workers.dev/4966.m3u8
+#EXTINF:-1 tvg-id="sf_supersportpsl.za" tvg-name="AF | SUPERSPORTS PSL" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS PSL
+https://b4u.link-etvv.workers.dev/4954.m3u8
+#EXTINF:-1 tvg-id="sf_supersportaction.za" tvg-name="AF | SUPERSPORTS ACTION" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS ACTION
+https://b4u.link-etvv.workers.dev/4981.m3u8
+#EXTINF:-1 tvg-id="sf_supersportmaximo1.za" tvg-name="AF | SUPERSPORTS MAXIMO" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS MAXIMO
+https://b4u.link-etvv.workers.dev/6218.m3u8
+#EXTINF:-1 tvg-id="sf_supersportgrandstand.za" tvg-name="AF | SUPERSPORTS GRANDSTAND 4K" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS GRANDSTAND 4K
+https://b4u.link-etvv.workers.dev/5918.m3u8
+#EXTINF:-1 tvg-id="sf_supersportgolf.za" tvg-name="AF | SUPERSPORTS GOLF 4K" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS GOLF 4K
+https://b4u.link-etvv.workers.dev/5347.m3u8
+#EXTINF:-1 tvg-id="sf_supersportmotorsport.za" tvg-name="AF | SUPERSPORTS MOTORSPORT 4K" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS MOTORSPORT 4K
+https://b4u.link-etvv.workers.dev/4972.m3u8
+#EXTINF:-1 tvg-id="sf_supersporttennis.za" tvg-name="AF | SUPERSPORTS TENNIS 4K" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS TENNIS 4K
+https://b4u.link-etvv.workers.dev/4895.m3u8
+#EXTINF:-1 tvg-id="us_ballysportsnorth.us" tvg-name="BALLY SPORTS NORTH 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS NORTH 4K
+https://b4u.link-etvv.workers.dev/24138.m3u8
+#EXTINF:-1 tvg-id="us_ballysportssouth.us" tvg-name="BALLY SPORTS SOUTH 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTH 4K
+https://b4u.link-etvv.workers.dev/24143.m3u8
+#EXTINF:-1 tvg-id="us_ballysportssoutheast.us" tvg-name="BALLY SPORTS SOUTHEAST 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTHEAST 4K
+https://b4u.link-etvv.workers.dev/24148.m3u8
+#EXTINF:-1 tvg-id="us_ballysportssouthwest.us" tvg-name="BALLY SPORTS SOUTHWEST 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTHWEST 4K
+https://b4u.link-etvv.workers.dev/24173.m3u8
+#EXTINF:-1 tvg-id="us_ballysportssouthwestplus.us" tvg-name="BALLY SPORTS SOUTHWEST PLUS 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTHWEST PLUS 4K
+https://b4u.link-etvv.workers.dev/24178.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="BALLY SPORTS SOUTH EXTRA 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTH EXTRA 4K
+https://b4u.link-etvv.workers.dev/24163.m3u8
+#EXTINF:-1 tvg-id="us_ballysportswest.us" tvg-name="BALLY SPORTS WEST 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS WEST 4K
+https://b4u.link-etvv.workers.dev/24158.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="BALLY SPORTS WEST PLUS 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS WEST PLUS 4K
+https://b4u.link-etvv.workers.dev/24183.m3u8
+#EXTINF:-1 tvg-id="us_ballysportsmidwest.us" tvg-name="BALLY SPORTS MIDWEST 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS MIDWEST 4K
+https://b4u.link-etvv.workers.dev/24153.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="BALLY SPORTS MIDWEST EXTRA 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS MIDWEST EXTRA 4K
+https://b4u.link-etvv.workers.dev/24168.m3u8
+#EXTINF:-1 tvg-id="us_motortrend.us" tvg-name="MOTOR TREND 4K" tvg-logo="" group-title="SPORTS",MOTOR TREND 4K
+https://b4u.link-etvv.workers.dev/23865.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPECTRUM SURF CHANNEL" tvg-logo="" group-title="SPORTS",SPECTRUM SURF CHANNEL
+https://b4u.link-etvv.workers.dev/10146.m3u8
+#EXTINF:-1 tvg-id="us_spectrumsportsnet.us" tvg-name="SPECTRUM SPORTSNET LA DODGERS" tvg-logo="" group-title="SPORTS",SPECTRUM SPORTSNET LA DODGERS
+https://b4u.link-etvv.workers.dev/10362.m3u8
+#EXTINF:-1 tvg-id="us_spectrumsportsnetla.us" tvg-name="SPECTRUM SPORTSNET LAKERS" tvg-logo="" group-title="SPORTS",SPECTRUM SPORTSNET LAKERS
+https://b4u.link-etvv.workers.dev/10365.m3u8
+#EXTINF:-1 tvg-id="us_comcastsnynewyorksportsnet.us" tvg-name="SNY NEW YORK SPORTSNET FHD" tvg-logo="" group-title="SPORTS",SNY NEW YORK SPORTSNET FHD
+https://b4u.link-etvv.workers.dev/7234.m3u8
+#EXTINF:-1 tvg-id="us_atandtsportsnetrockymountain.us" tvg-name="AT&T SPORTSNET ROCKY MOUNTAIN" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET ROCKY MOUNTAIN
+https://b4u.link-etvv.workers.dev/10743.m3u8
+#EXTINF:-1 tvg-id="us_atandtsportsnetpittsburgh.us" tvg-name="AT&T SPORTSNET PITTSBURGH" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET PITTSBURGH
+https://b4u.link-etvv.workers.dev/10740.m3u8
+#EXTINF:-1 tvg-id="us_atandtsportsnetsouthwest.us" tvg-name="AT&T SPORTSNET SOUTHWEST" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET SOUTHWEST
+https://b4u.link-etvv.workers.dev/10746.m3u8
+#EXTINF:-1 tvg-id="us_comcastsnynewyorksportsnet.us" tvg-name="COMCAST SPORTSNET NEW YORK" tvg-logo="" group-title="SPORTS",COMCAST SPORTSNET NEW YORK
+https://b4u.link-etvv.workers.dev/10749.m3u8
+#EXTINF:-1 tvg-id="us_elevensports.us" tvg-name="US | ELEVEN SPORTS 4K" tvg-logo="" group-title="SPORTS",US | ELEVEN SPORTS 4K
+https://b4u.link-etvv.workers.dev/23840.m3u8
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL | ELEVEN SPORTS ENGLISH 4K" tvg-logo="" group-title="SPORTS",PL | ELEVEN SPORTS ENGLISH 4K
+https://b4u.link-etvv.workers.dev/23830.m3u8
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL | ELEVEN SPORTS 2 ENGLISH 4K" tvg-logo="" group-title="SPORTS",PL | ELEVEN SPORTS 2 ENGLISH 4K
+https://b4u.link-etvv.workers.dev/23835.m3u8
+#EXTINF:-1 tvg-id="ca_hpitv.ca" tvg-name="HPITV" tvg-logo="" group-title="SPORTS",HPITV
+https://b4u.link-etvv.workers.dev/10125.m3u8
+#EXTINF:-1 tvg-id="ca_hpitvinternational.ca" tvg-name="HPITV INTERNATIONAL" tvg-logo="" group-title="SPORTS",HPITV INTERNATIONAL
+https://b4u.link-etvv.workers.dev/10132.m3u8
+#EXTINF:-1 tvg-id="us_fubosportsnetwork.us" tvg-name="FUBO" tvg-logo="" group-title="SPORTS",FUBO
+https://b4u.link-etvv.workers.dev/41515.m3u8
+#EXTINF:-1 tvg-id="us_foxsports1.us" tvg-name="FOX SPORTS 1 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS 1 4K
+https://b4u.link-etvv.workers.dev/8967.m3u8
+#EXTINF:-1 tvg-id="us_foxsports2.us" tvg-name="FOX SPORTS 2 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS 2 4K
+https://b4u.link-etvv.workers.dev/8974.m3u8
+#EXTINF:-1 tvg-id="foxsports3.sg" tvg-name="FOX SPORTS 3 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS 3 4K
+https://b4u.link-etvv.workers.dev/10313.m3u8
+#EXTINF:-1 tvg-id="us_foxsportsnorth.us" tvg-name="FOX SPORTS NORTH 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS NORTH 4K
+https://b4u.link-etvv.workers.dev/5244.m3u8
+#EXTINF:-1 tvg-id="us_foxsportssouth.us" tvg-name="FOX SPORTS SOUTH 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS SOUTH 4K
+https://b4u.link-etvv.workers.dev/5241.m3u8
+#EXTINF:-1 tvg-id="us_foxsportssoutheast.us" tvg-name="FOX SPORTS SOUTHEAST 4K (GEORGIA)" tvg-logo="" group-title="SPORTS",FOX SPORTS SOUTHEAST 4K (GEORGIA)
+https://b4u.link-etvv.workers.dev/5240.m3u8
+#EXTINF:-1 tvg-id="us_foxsportswest.us" tvg-name="FOX SPORTS WEST 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS WEST 4K
+https://b4u.link-etvv.workers.dev/10295.m3u8
+#EXTINF:-1 tvg-id="us_foxsportssouthwest.us" tvg-name="FOX SPORTS SOUTHWEST 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS SOUTHWEST 4K
+https://b4u.link-etvv.workers.dev/5239.m3u8
+#EXTINF:-1 tvg-id="us_foxsportswestprimeticket.us" tvg-name="FOX SPORTS PRIME TICKET 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS PRIME TICKET 4K
+https://b4u.link-etvv.workers.dev/5248.m3u8
+#EXTINF:-1 tvg-id="us_foxsportsoklahoma.us" tvg-name="FOX SPORTS OKLAHOMA 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS OKLAHOMA 4K
+https://b4u.link-etvv.workers.dev/10298.m3u8
+#EXTINF:-1 tvg-id="us_foxsportsarizona.us" tvg-name="FOX SPORTS ARIZONA 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS ARIZONA 4K
+https://b4u.link-etvv.workers.dev/5247.m3u8
+#EXTINF:-1 tvg-id="us_foxsportssun.us" tvg-name="FOX SPORTS SUN 4K (SOUTH FLORIDA)" tvg-logo="" group-title="SPORTS",FOX SPORTS SUN 4K (SOUTH FLORIDA)
+https://b4u.link-etvv.workers.dev/5238.m3u8
+#EXTINF:-1 tvg-id="us_foxsportsflorida.us" tvg-name="FOX SPORTS FLORIDA 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS FLORIDA 4K
+https://b4u.link-etvv.workers.dev/5246.m3u8
+#EXTINF:-1 tvg-id="us_foxsportssandiego.us" tvg-name="FOX SPORTS SAN DIEGO 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS SAN DIEGO 4K
+https://b4u.link-etvv.workers.dev/5242.m3u8
+#EXTINF:-1 tvg-id="us_foxsportsmidwest.us" tvg-name="FOX SPORTS MIDWEST 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS MIDWEST 4K
+https://b4u.link-etvv.workers.dev/5245.m3u8
+#EXTINF:-1 tvg-id="us_foxsportsohiocincinnati.us" tvg-name="FOX SPORTS OHIO 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS OHIO 4K
+https://b4u.link-etvv.workers.dev/5243.m3u8
+#EXTINF:-1 tvg-id="us_foxsportsdetroit.us" tvg-name="FOX SPORTS DETROIT 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS DETROIT 4K
+https://b4u.link-etvv.workers.dev/10301.m3u8
+#EXTINF:-1 tvg-id="us_foxsportsohiocincinnati.us" tvg-name="FOX SPORTS CINCINNATI 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS CINCINNATI 4K
+https://b4u.link-etvv.workers.dev/10304.m3u8
+#EXTINF:-1 tvg-id="us_foxsportswisconsin.us" tvg-name="FOX SPORTS WISCONSIN 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS WISCONSIN 4K
+https://b4u.link-etvv.workers.dev/5236.m3u8
+#EXTINF:-1 tvg-id="us_foxsportstennessee.us" tvg-name="FOX SPORTS TENNESSEE 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS TENNESSEE 4K
+https://b4u.link-etvv.workers.dev/10307.m3u8
+#EXTINF:-1 tvg-id="us_foxsportssouthcarolinas.us" tvg-name="FOX SPORTS CAROLINAS 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS CAROLINAS 4K
+https://b4u.link-etvv.workers.dev/10310.m3u8
+#EXTINF:-1 tvg-id="us_foxmidwestkansascity.us" tvg-name="FOX SPORTS KANSAS CITY 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS KANSAS CITY 4K
+https://b4u.link-etvv.workers.dev/5237.m3u8
+#EXTINF:-1 tvg-id="foxsportsnews.au" tvg-name="FOX SPORTS NEWS AU" tvg-logo="" group-title="SPORTS",FOX SPORTS NEWS AU
+https://b4u.link-etvv.workers.dev/5359.m3u8
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="FOX SPORTS 501 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 501 AU
+https://b4u.link-etvv.workers.dev/5365.m3u8
+#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="FOX SPORTS 502 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 502 AU
+https://b4u.link-etvv.workers.dev/5364.m3u8
+#EXTINF:-1 tvg-id="foxsports503.au" tvg-name="FOX SPORTS 503 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 503 AU
+https://b4u.link-etvv.workers.dev/5363.m3u8
+#EXTINF:-1 tvg-id="foxsports504hd.au" tvg-name="FOX SPORTS 504 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 504 AU
+https://b4u.link-etvv.workers.dev/5362.m3u8
+#EXTINF:-1 tvg-id="foxsports505.au" tvg-name="FOX SPORTS 505 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 505 AU
+https://b4u.link-etvv.workers.dev/5360.m3u8
+#EXTINF:-1 tvg-id="foxsports506.au" tvg-name="FOX SPORTS 506 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 506 AU
+https://b4u.link-etvv.workers.dev/5361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 1" tvg-logo="" group-title="SPORTS",AU | OPTUS 1
+https://b4u.link-etvv.workers.dev/40645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 2" tvg-logo="" group-title="SPORTS",AU | OPTUS 2
+https://b4u.link-etvv.workers.dev/40651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 3" tvg-logo="" group-title="SPORTS",AU | OPTUS 3
+https://b4u.link-etvv.workers.dev/40657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 4" tvg-logo="" group-title="SPORTS",AU | OPTUS 4
+https://b4u.link-etvv.workers.dev/40663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 5" tvg-logo="" group-title="SPORTS",AU | OPTUS 5
+https://b4u.link-etvv.workers.dev/40669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 6" tvg-logo="" group-title="SPORTS",AU | OPTUS 6
+https://b4u.link-etvv.workers.dev/40675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 7" tvg-logo="" group-title="SPORTS",AU | OPTUS 7
+https://b4u.link-etvv.workers.dev/40681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 8" tvg-logo="" group-title="SPORTS",AU | OPTUS 8
+https://b4u.link-etvv.workers.dev/40687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 9" tvg-logo="" group-title="SPORTS",AU | OPTUS 9
+https://b4u.link-etvv.workers.dev/40693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 10" tvg-logo="" group-title="SPORTS",AU | OPTUS 10
+https://b4u.link-etvv.workers.dev/40699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 11" tvg-logo="" group-title="SPORTS",AU | OPTUS 11
+https://b4u.link-etvv.workers.dev/40705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 12" tvg-logo="" group-title="SPORTS",AU | OPTUS 12
+https://b4u.link-etvv.workers.dev/40711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 1 4K
+https://b4u.link-etvv.workers.dev/18307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 2 4K
+https://b4u.link-etvv.workers.dev/18312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 3 4K
+https://b4u.link-etvv.workers.dev/18302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 4 4K
+https://b4u.link-etvv.workers.dev/18317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV 5 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 5 4K
+https://b4u.link-etvv.workers.dev/18322.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 1 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 1 4K
+https://b4u.link-etvv.workers.dev/11032.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 2 4K
+https://b4u.link-etvv.workers.dev/11035.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 3 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 3 4K
+https://b4u.link-etvv.workers.dev/11038.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 4 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 4 4K
+https://b4u.link-etvv.workers.dev/11041.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 5 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 5 4K
+https://b4u.link-etvv.workers.dev/11044.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 6 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 6 4K
+https://b4u.link-etvv.workers.dev/11047.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 7 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 7 4K
+https://b4u.link-etvv.workers.dev/11050.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 8 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 8 4K
+https://b4u.link-etvv.workers.dev/11053.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC FIGHT PASS HD" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC FIGHT PASS HD
+https://b4u.link-etvv.workers.dev/5336.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV MAIN CARD 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV MAIN CARD 4K
+https://b4u.link-etvv.workers.dev/10734.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV MAIN CARD HD" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV MAIN CARD HD
+https://b4u.link-etvv.workers.dev/10737.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 1 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 1 4K
+https://b4u.link-etvv.workers.dev/5327.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 2 4K
+https://b4u.link-etvv.workers.dev/5328.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 3 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 3 4K
+https://b4u.link-etvv.workers.dev/5329.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 4 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 4 4K
+https://b4u.link-etvv.workers.dev/5330.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 5 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 5 4K
+https://b4u.link-etvv.workers.dev/5331.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 6 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 6 4K
+https://b4u.link-etvv.workers.dev/11017.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 7 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 7 4K
+https://b4u.link-etvv.workers.dev/11020.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 8 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 8 4K
+https://b4u.link-etvv.workers.dev/11023.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 9 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 9 4K
+https://b4u.link-etvv.workers.dev/11026.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 10 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 10 4K
+https://b4u.link-etvv.workers.dev/11029.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="PPV MMA 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV MMA 2 4K
+https://b4u.link-etvv.workers.dev/11003.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="PPV: BOXING 1 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV: BOXING 1 4K
+https://b4u.link-etvv.workers.dev/5337.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="PPV: BOXING 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV: BOXING 2 4K
+https://b4u.link-etvv.workers.dev/5338.m3u8
+#EXTINF:-1 tvg-id="glotv" tvg-name="PPV: BOXING 3 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV: BOXING 3 4K
+https://b4u.link-etvv.workers.dev/5339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 1" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 1
+https://b4u.link-etvv.workers.dev/24073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 2" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 2
+https://b4u.link-etvv.workers.dev/24078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 3" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 3
+https://b4u.link-etvv.workers.dev/24083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 4" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 4
+https://b4u.link-etvv.workers.dev/24088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 5" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 5
+https://b4u.link-etvv.workers.dev/24093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 6" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 6
+https://b4u.link-etvv.workers.dev/24098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 7" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 7
+https://b4u.link-etvv.workers.dev/24103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 8" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 8
+https://b4u.link-etvv.workers.dev/24108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 9" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 9
+https://b4u.link-etvv.workers.dev/24113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 10" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 10
+https://b4u.link-etvv.workers.dev/24118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 11" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 11
+https://b4u.link-etvv.workers.dev/24123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 12" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 12
+https://b4u.link-etvv.workers.dev/24128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 13" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 13
+https://b4u.link-etvv.workers.dev/24133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 1" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 1
+https://b4u.link-etvv.workers.dev/41521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 2" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 2
+https://b4u.link-etvv.workers.dev/41527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 3" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 3
+https://b4u.link-etvv.workers.dev/41533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 4" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 4
+https://b4u.link-etvv.workers.dev/41539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 5" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 5
+https://b4u.link-etvv.workers.dev/41545.m3u8
+#EXTINF:-1 tvg-id="us_mavtv.us" tvg-name="RACER TV" tvg-logo="" group-title="SPORTS",RACER TV
+https://b4u.link-etvv.workers.dev/7233.m3u8
+#EXTINF:-1 tvg-id="us_madisonsquaregarden.us" tvg-name="MSG FHD" tvg-logo="" group-title="SPORTS",MSG FHD
+https://b4u.link-etvv.workers.dev/7170.m3u8
+#EXTINF:-1 tvg-id="us_madisonsquaregarden2.us" tvg-name="MSG 2 FHD" tvg-logo="" group-title="SPORTS",MSG 2 FHD
+https://b4u.link-etvv.workers.dev/7171.m3u8
+
 #EXTINF:-1 tvg-id="ca_lovenature.ca" tvg-name="LOVE NATURE 4K" tvg-logo="" group-title="ENGLISH | CANADA",LOVE NATURE 4K
 https://b4u.link-etvv.workers.dev/1438.m3u8
 #EXTINF:-1 tvg-id="glotv" tvg-name="FIREPLACE TV 4K" tvg-logo="" group-title="ENGLISH | CANADA",FIREPLACE TV 4K
@@ -5161,560 +5717,7 @@ https://b4u.link-etvv.workers.dev/7811.m3u8
 https://b4u.link-etvv.workers.dev/7815.m3u8
 #EXTINF:-1 tvg-id="in_saamtv.in" tvg-name="SAAM TV" tvg-logo="" group-title="MARATHI",SAAM TV
 https://b4u.link-etvv.workers.dev/11531.m3u8
-#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="T20 - 2026 - ENG" tvg-logo="" group-title="SPORTS | CRICKET",T20 - 2026 - ENG
-https://b4u.link-etvv.workers.dev/10350.m3u8
-#EXTINF:-1 tvg-id="in_starsports1hdhindi.in" tvg-name="PTV CRICKET" tvg-logo="" group-title="SPORTS | CRICKET",PTV CRICKET
-https://b4u.link-etvv.workers.dev/24044.m3u8
-#EXTINF:-1 tvg-id="in_starsports1hdhindi.in" tvg-name="T20 2026 - HIN" tvg-logo="" group-title="SPORTS | CRICKET",T20 2026 - HIN
-https://b4u.link-etvv.workers.dev/24014.m3u8
-#EXTINF:-1 tvg-id="in_starsportsselect1.in" tvg-name="T20 2026 - ASTRO" tvg-logo="" group-title="SPORTS | CRICKET",T20 2026 - ASTRO
-https://b4u.link-etvv.workers.dev/10356.m3u8
-#EXTINF:-1 tvg-id="in_starsports1hdhindi.in" tvg-name="T20 2026 - ENG*" tvg-logo="" group-title="SPORTS | CRICKET",T20 2026 - ENG*
-https://b4u.link-etvv.workers.dev/36013.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="STAR 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR 4K
-https://b4u.link-etvv.workers.dev/24039.m3u8
-#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="WILLOW CRICKET USA" tvg-logo="" group-title="SPORTS | CRICKET",WILLOW CRICKET USA
-https://b4u.link-etvv.workers.dev/747.m3u8
-#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="WILLOW CANADA 4K" tvg-logo="" group-title="SPORTS | CRICKET",WILLOW CANADA 4K
-https://b4u.link-etvv.workers.dev/10359.m3u8
-#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="WILLOW EXTRA" tvg-logo="" group-title="SPORTS | CRICKET",WILLOW EXTRA
-https://b4u.link-etvv.workers.dev/5676.m3u8
-#EXTINF:-1 tvg-id="us_willowcricket.us" tvg-name="WILLOW SPORTS" tvg-logo="" group-title="SPORTS | CRICKET",WILLOW SPORTS
-https://b4u.link-etvv.workers.dev/54774.m3u8
-#EXTINF:-1 tvg-id="in_sonysixhd.in" tvg-name="SONY SIX 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SIX 4K
-https://b4u.link-etvv.workers.dev/709.m3u8
-#EXTINF:-1 tvg-id="in_sonyten1hd.in" tvg-name="SONY SPORTS TEN 1 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SPORTS TEN 1 4K
-https://b4u.link-etvv.workers.dev/673.m3u8
-#EXTINF:-1 tvg-id="in_sonyten2hd.in" tvg-name="SONY SPORTS TEN 2 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SPORTS TEN 2 4K
-https://b4u.link-etvv.workers.dev/674.m3u8
-#EXTINF:-1 tvg-id="in_sonyten3hd.in" tvg-name="SONY SPORTS TEN 3 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SPORTS TEN 3 4K
-https://b4u.link-etvv.workers.dev/675.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SONY SPORTS TEN 4 4K" tvg-logo="" group-title="SPORTS | CRICKET",SONY SPORTS TEN 4 4K
-https://b4u.link-etvv.workers.dev/24069.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="RUSH SPORTS CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",RUSH SPORTS CRICKET 4K
-https://b4u.link-etvv.workers.dev/10344.m3u8
-#EXTINF:-1 tvg-id="flowsports.jm" tvg-name="FLOW SPORTS 4K" tvg-logo="" group-title="SPORTS | CRICKET",FLOW SPORTS 4K
-https://b4u.link-etvv.workers.dev/10293.m3u8
-#EXTINF:-1 tvg-id="au_foxcrickethd.au" tvg-name="FOX CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",FOX CRICKET 4K
-https://b4u.link-etvv.workers.dev/5677.m3u8
-#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="ASTRO CRICKET" tvg-logo="" group-title="SPORTS | CRICKET",ASTRO CRICKET
-https://b4u.link-etvv.workers.dev/5651.m3u8
-#EXTINF:-1 tvg-id="sf_supersportcricket.za" tvg-name="SUPERSPORTS CRICKET 2 4K" tvg-logo="" group-title="SPORTS | CRICKET",SUPERSPORTS CRICKET 2 4K
-https://b4u.link-etvv.workers.dev/6775.m3u8
-#EXTINF:-1 tvg-id="in_starsportsselect1.in" tvg-name="STAR SPORTS SELECT 1" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS SELECT 1
-https://b4u.link-etvv.workers.dev/5305.m3u8
-#EXTINF:-1 tvg-id="in_starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS SELECT 1 4K
-https://b4u.link-etvv.workers.dev/5675.m3u8
-#EXTINF:-1 tvg-id="in_starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS SELECT 2 4K
-https://b4u.link-etvv.workers.dev/710.m3u8
-#EXTINF:-1 tvg-id="in_starsportsfirst.in" tvg-name="STAR SPORTS FIRST" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS FIRST
-https://b4u.link-etvv.workers.dev/3769.m3u8
-#EXTINF:-1 tvg-id="in_starsports1hd.in" tvg-name="STAR SPORTS 1 ENGLISH 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 ENGLISH 4K
-https://b4u.link-etvv.workers.dev/669.m3u8
-#EXTINF:-1 tvg-id="in_starsports1hdhindi.in" tvg-name="STAR SPORTS 1 HINDI 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 HINDI 4K
-https://b4u.link-etvv.workers.dev/650.m3u8
-#EXTINF:-1 tvg-id="in_starsports1tamil.in" tvg-name="STAR SPORTS 1 TAMIL" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 TAMIL
-https://b4u.link-etvv.workers.dev/23989.m3u8
-#EXTINF:-1 tvg-id="in_starsports1telugu.in" tvg-name="STAR SPORTS 1 TELUGU" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 TELUGU
-https://b4u.link-etvv.workers.dev/23994.m3u8
-#EXTINF:-1 tvg-id="in_starsports1bangla.in" tvg-name="STAR SPORTS 1 BANGLA" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 BANGLA
-https://b4u.link-etvv.workers.dev/23999.m3u8
-#EXTINF:-1 tvg-id="in_starsports1kannada.in" tvg-name="STAR SPORTS 1 KANNADA" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 KANNADA
-https://b4u.link-etvv.workers.dev/24004.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="STAR SPORTS 1 MALAYALAM" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 1 MALAYALAM
-https://b4u.link-etvv.workers.dev/24064.m3u8
-#EXTINF:-1 tvg-id="in_starsports2hd.in" tvg-name="STAR SPORTS 2 4K" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 2 4K
-https://b4u.link-etvv.workers.dev/670.m3u8
-#EXTINF:-1 tvg-id="in_starsports3.in" tvg-name="STAR SPORTS 3" tvg-logo="" group-title="SPORTS | CRICKET",STAR SPORTS 3
-https://b4u.link-etvv.workers.dev/858.m3u8
-#EXTINF:-1 tvg-id="uk_skysportscricket.uk" tvg-name="SKY SPORTS CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET 4K
-https://b4u.link-etvv.workers.dev/5326.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="TEN SPORTS PAKISTAN" tvg-logo="" group-title="SPORTS | CRICKET",TEN SPORTS PAKISTAN
-https://b4u.link-etvv.workers.dev/10347.m3u8
-#EXTINF:-1 tvg-id="hubsports4.sg" tvg-name="HUB SPORTS 4 CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",HUB SPORTS 4 CRICKET 4K
-https://b4u.link-etvv.workers.dev/32504.m3u8
-#EXTINF:-1 tvg-id="hubsports5.sg" tvg-name="HUB SPORTS 5 CRICKET 4K" tvg-logo="" group-title="SPORTS | CRICKET",HUB SPORTS 5 CRICKET 4K
-https://b4u.link-etvv.workers.dev/32510.m3u8
-#EXTINF:-1 tvg-id="in_sports18.in" tvg-name="SPORTS 18 ENG 4K" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 ENG 4K
-https://b4u.link-etvv.workers.dev/3448.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPORTS 18 TWO" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 TWO
-https://b4u.link-etvv.workers.dev/10353.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPORTS 18 THREE" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 THREE
-https://b4u.link-etvv.workers.dev/24019.m3u8
-#EXTINF:-1 tvg-id="in_sports18.in" tvg-name="SPORTS 18 TAMIL 4K" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 TAMIL 4K
-https://b4u.link-etvv.workers.dev/32516.m3u8
-#EXTINF:-1 tvg-id="in_sports18.in" tvg-name="SPORTS 18 TELUGU 4K" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 TELUGU 4K
-https://b4u.link-etvv.workers.dev/http://glspr.packetcdn.me:9110/CRICKET_SPORTS_18_TEL/index.m3u8.m3u8
-#EXTINF:-1 tvg-id="in_sports18.in" tvg-name="SPORTS 18 KANNADA 4K" tvg-logo="" group-title="SPORTS | CRICKET",SPORTS 18 KANNADA 4K
-https://b4u.link-etvv.workers.dev/http://glspr.packetcdn.me:9110/CRICKET_SPORTS_18_KANNADA/index.m3u8.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="T SPORTS HD" tvg-logo="" group-title="SPORTS | CRICKET",T SPORTS HD
-https://b4u.link-etvv.workers.dev/5678.m3u8
-#EXTINF:-1 tvg-id="in_ddsports.in" tvg-name="DD SPORTS" tvg-logo="" group-title="SPORTS | CRICKET",DD SPORTS
-https://b4u.link-etvv.workers.dev/909.m3u8
-#EXTINF:-1 tvg-id="in_dsport.in" tvg-name="D SPORTS" tvg-logo="" group-title="SPORTS | CRICKET",D SPORTS
-https://b4u.link-etvv.workers.dev/841.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="ATN CRICKET PLUS" tvg-logo="" group-title="SPORTS | CRICKET",ATN CRICKET PLUS
-https://b4u.link-etvv.workers.dev/8561.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="GEO SUPER HD" tvg-logo="" group-title="SPORTS | CRICKET",GEO SUPER HD
-https://b4u.link-etvv.workers.dev/2208.m3u8
-#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="PTV SPORTS" tvg-logo="" group-title="SPORTS | CRICKET",PTV SPORTS
-https://b4u.link-etvv.workers.dev/2343.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="CBN NETWORK" tvg-logo="" group-title="SPORTS | CRICKET",CBN NETWORK
-https://b4u.link-etvv.workers.dev/8557.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="A SPORTS PK" tvg-logo="" group-title="SPORTS | CRICKET",A SPORTS PK
-https://b4u.link-etvv.workers.dev/11644.m3u8
-#EXTINF:-1 tvg-id="ca_tsn1.ca" tvg-name="TSN 1 FHD" tvg-logo="" group-title="SPORTS",TSN 1 FHD
-https://b4u.link-etvv.workers.dev/5322.m3u8
-#EXTINF:-1 tvg-id="ca_tsn2.ca" tvg-name="TSN 2 FHD" tvg-logo="" group-title="SPORTS",TSN 2 FHD
-https://b4u.link-etvv.workers.dev/5333.m3u8
-#EXTINF:-1 tvg-id="ca_tsn3.ca" tvg-name="TSN 3 FHD" tvg-logo="" group-title="SPORTS",TSN 3 FHD
-https://b4u.link-etvv.workers.dev/5335.m3u8
-#EXTINF:-1 tvg-id="ca_tsn4.ca" tvg-name="TSN 4 FHD" tvg-logo="" group-title="SPORTS",TSN 4 FHD
-https://b4u.link-etvv.workers.dev/5349.m3u8
-#EXTINF:-1 tvg-id="ca_tsn4.ca" tvg-name="TSN 4 4K" tvg-logo="" group-title="SPORTS",TSN 4 4K
-https://b4u.link-etvv.workers.dev/60306.m3u8
-#EXTINF:-1 tvg-id="ca_tsn5.ca" tvg-name="TSN 5 FHD" tvg-logo="" group-title="SPORTS",TSN 5 FHD
-https://b4u.link-etvv.workers.dev/5321.m3u8
-#EXTINF:-1 tvg-id="ca_sportsnetwest.ca" tvg-name="SPORTSNET 4K" tvg-logo="" group-title="SPORTS",SPORTSNET 4K
-https://b4u.link-etvv.workers.dev/60312.m3u8
-#EXTINF:-1 tvg-id="ca_sportsneteast.ca" tvg-name="SPORTSNET EAST" tvg-logo="" group-title="SPORTS",SPORTSNET EAST
-https://b4u.link-etvv.workers.dev/5299.m3u8
-#EXTINF:-1 tvg-id="ca_sportsnetwest.ca" tvg-name="SPORTSNET WEST" tvg-logo="" group-title="SPORTS",SPORTSNET WEST
-https://b4u.link-etvv.workers.dev/7239.m3u8
-#EXTINF:-1 tvg-id="ca_sportsnetpacific.ca" tvg-name="SPORTSNET PACIFIC" tvg-logo="" group-title="SPORTS",SPORTSNET PACIFIC
-https://b4u.link-etvv.workers.dev/5295.m3u8
-#EXTINF:-1 tvg-id="ca_sportsnetone.ca" tvg-name="SPORTSNET ONE" tvg-logo="" group-title="SPORTS",SPORTSNET ONE
-https://b4u.link-etvv.workers.dev/5294.m3u8
-#EXTINF:-1 tvg-id="ca_sportsnetone.ca" tvg-name="SPORTSNET ONE 4K" tvg-logo="" group-title="SPORTS",SPORTSNET ONE 4K
-https://b4u.link-etvv.workers.dev/60318.m3u8
-#EXTINF:-1 tvg-id="ca_sportsnetontario.ca" tvg-name="SPORTSNET ONTARIO" tvg-logo="" group-title="SPORTS",SPORTSNET ONTARIO
-https://b4u.link-etvv.workers.dev/5298.m3u8
-#EXTINF:-1 tvg-id="ca_sportsnetworld.ca" tvg-name="SPORTSNET WORLD" tvg-logo="" group-title="SPORTS",SPORTSNET WORLD
-https://b4u.link-etvv.workers.dev/5296.m3u8
-#EXTINF:-1 tvg-id="ca_sportsnet360.ca" tvg-name="SPORTSNET 360" tvg-logo="" group-title="SPORTS",SPORTSNET 360
-https://b4u.link-etvv.workers.dev/5297.m3u8
-#EXTINF:-1 tvg-id="ca_nbatv.ca" tvg-name="NBA TV CA" tvg-logo="" group-title="SPORTS",NBA TV CA
-https://b4u.link-etvv.workers.dev/5254.m3u8
-#EXTINF:-1 tvg-id="us_nbatv.us" tvg-name="NBA TV US" tvg-logo="" group-title="SPORTS",NBA TV US
-https://b4u.link-etvv.workers.dev/5255.m3u8
-#EXTINF:-1 tvg-id="us_nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="" group-title="SPORTS",NFL NETWORK
-https://b4u.link-etvv.workers.dev/5034.m3u8
-#EXTINF:-1 tvg-id="us_nflredzone.us" tvg-name="NFL REDZONE" tvg-logo="" group-title="SPORTS",NFL REDZONE
-https://b4u.link-etvv.workers.dev/5650.m3u8
-#EXTINF:-1 tvg-id="uk_skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS MAIN EVENT FHD
-https://b4u.link-etvv.workers.dev/5311.m3u8
-#EXTINF:-1 tvg-id="uk_skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE FHD
-https://b4u.link-etvv.workers.dev/5304.m3u8
-#EXTINF:-1 tvg-id="uk_skysportsgolf.uk" tvg-name="SKY SPORTS GOLF FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS GOLF FHD
-https://b4u.link-etvv.workers.dev/5342.m3u8
-#EXTINF:-1 tvg-id="uk_skysportsaction.uk" tvg-name="SKY SPORTS ACTION FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS ACTION FHD
-https://b4u.link-etvv.workers.dev/5315.m3u8
-#EXTINF:-1 tvg-id="uk_skysportsf1.uk" tvg-name="SKY SPORTS F1 FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS F1 FHD
-https://b4u.link-etvv.workers.dev/5316.m3u8
-#EXTINF:-1 tvg-id="uk_skysportsfootball.uk" tvg-name="SKY SPORTS FOOTBALL FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS FOOTBALL FHD
-https://b4u.link-etvv.workers.dev/5312.m3u8
-#EXTINF:-1 tvg-id="uk_skysportsnews.uk" tvg-name="SKY SPORTS NEWS FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS NEWS FHD
-https://b4u.link-etvv.workers.dev/5310.m3u8
-#EXTINF:-1 tvg-id="uk_skysportsarena.uk" tvg-name="SKY SPORTS PLUS FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS PLUS FHD
-https://b4u.link-etvv.workers.dev/5314.m3u8
-#EXTINF:-1 tvg-id="uk_skysportsmix.uk" tvg-name="SKY SPORTS MIX FHD" tvg-logo="" group-title="SPORTS",SKY SPORTS MIX FHD
-https://b4u.link-etvv.workers.dev/5317.m3u8
-#EXTINF:-1 tvg-id="uk_skysportsracing.uk" tvg-name="SKY SPORTS RACING" tvg-logo="" group-title="SPORTS",SKY SPORTS RACING
-https://b4u.link-etvv.workers.dev/10118.m3u8
-#EXTINF:-1 tvg-id="us_golfchannel.us" tvg-name="NBC GOLF" tvg-logo="" group-title="SPORTS",NBC GOLF
-https://b4u.link-etvv.workers.dev/5539.m3u8
-#EXTINF:-1 tvg-id="us_golfchannel.us" tvg-name="THE GOLF CHANNEL HD" tvg-logo="" group-title="SPORTS",THE GOLF CHANNEL HD
-https://b4u.link-etvv.workers.dev/5250.m3u8
-#EXTINF:-1 tvg-id="ca_fightnetwork.ca" tvg-name="FIGHT NETWORK FHD" tvg-logo="" group-title="SPORTS",FIGHT NETWORK FHD
-https://b4u.link-etvv.workers.dev/7245.m3u8
-#EXTINF:-1 tvg-id="us_goltv.us" tvg-name="GOL TV" tvg-logo="" group-title="SPORTS",GOL TV
-https://b4u.link-etvv.workers.dev/7236.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="B TV 4K" tvg-logo="" group-title="SPORTS",B TV 4K
-https://b4u.link-etvv.workers.dev/7240.m3u8
-#EXTINF:-1 tvg-id="uk_boxnation.uk" tvg-name="BOX NATION" tvg-logo="" group-title="SPORTS",BOX NATION
-https://b4u.link-etvv.workers.dev/5346.m3u8
-#EXTINF:-1 tvg-id="us_bigtennetwork.us" tvg-name="BIG TEN NETWORK" tvg-logo="" group-title="SPORTS",BIG TEN NETWORK
-https://b4u.link-etvv.workers.dev/5216.m3u8
-#EXTINF:-1 tvg-id="us_gameplus.us" tvg-name="FNTSY SPORTS NETWORK (GAME PLUS)" tvg-logo="" group-title="SPORTS",FNTSY SPORTS NETWORK (GAME PLUS)
-https://b4u.link-etvv.workers.dev/5219.m3u8
-#EXTINF:-1 tvg-id="us_longhonrnetwork.us" tvg-name="LONGHORN NETWORK" tvg-logo="" group-title="SPORTS",LONGHORN NETWORK
-https://b4u.link-etvv.workers.dev/5251.m3u8
-#EXTINF:-1 tvg-id="us_nhlnetwork.us" tvg-name="NHL NETWORK" tvg-logo="" group-title="SPORTS",NHL NETWORK
-https://b4u.link-etvv.workers.dev/5252.m3u8
-#EXTINF:-1 tvg-id="us_nhlnetwork.us" tvg-name="NHL NETWORK ALTERNATE" tvg-logo="" group-title="SPORTS",NHL NETWORK ALTERNATE
-https://b4u.link-etvv.workers.dev/5253.m3u8
-#EXTINF:-1 tvg-id="ca_nhlcentreice.ca" tvg-name="NHL CENTRE ICE FULL PACKAGE" tvg-logo="" group-title="SPORTS",NHL CENTRE ICE FULL PACKAGE
-https://b4u.link-etvv.workers.dev/18332.m3u8
-#EXTINF:-1 tvg-id="us_olympicchannel.us" tvg-name="OLYMPIC CHANNEL" tvg-logo="" group-title="SPORTS",OLYMPIC CHANNEL
-https://b4u.link-etvv.workers.dev/5256.m3u8
-#EXTINF:-1 tvg-id="us_secnetwork.us" tvg-name="SEC NETWORK" tvg-logo="" group-title="SPORTS",SEC NETWORK
-https://b4u.link-etvv.workers.dev/5257.m3u8
-#EXTINF:-1 tvg-id="ca_tvasports.ca" tvg-name="TVA SPORTS" tvg-logo="" group-title="SPORTS",TVA SPORTS
-https://b4u.link-etvv.workers.dev/5293.m3u8
-#EXTINF:-1 tvg-id="uk_mutv.uk" tvg-name="MUTV SPORTS" tvg-logo="" group-title="SPORTS",MUTV SPORTS
-https://b4u.link-etvv.workers.dev/5300.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="FANCODE SPORTS" tvg-logo="" group-title="SPORTS",FANCODE SPORTS
-https://b4u.link-etvv.workers.dev/59839.m3u8
-#EXTINF:-1 tvg-id="uk_racinguk.uk" tvg-name="RACING UK" tvg-logo="" group-title="SPORTS",RACING UK
-https://b4u.link-etvv.workers.dev/5214.m3u8
-#EXTINF:-1 tvg-id="us_tvg.us" tvg-name="FANDUEL TV" tvg-logo="" group-title="SPORTS",FANDUEL TV
-https://b4u.link-etvv.workers.dev/3910.m3u8
-#EXTINF:-1 tvg-id="us_tvg2.us" tvg-name="FANDUEL RACING" tvg-logo="" group-title="SPORTS",FANDUEL RACING
-https://b4u.link-etvv.workers.dev/3911.m3u8
-#EXTINF:-1 tvg-id="racing.com.au" tvg-name="RACING AUSTRALIA" tvg-logo="" group-title="SPORTS",RACING AUSTRALIA
-https://b4u.link-etvv.workers.dev/5358.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="NESN" tvg-logo="" group-title="SPORTS",NESN
-https://b4u.link-etvv.workers.dev/4963.m3u8
-#EXTINF:-1 tvg-id="us_newenglandsportsnetworkplus.us" tvg-name="NESN PLUS" tvg-logo="" group-title="SPORTS",NESN PLUS
-https://b4u.link-etvv.workers.dev/4848.m3u8
-#EXTINF:-1 tvg-id="us_yesnetwork.us" tvg-name="YES NETWORK" tvg-logo="" group-title="SPORTS",YES NETWORK
-https://b4u.link-etvv.workers.dev/7169.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="DRAFTKINGS NETWORK" tvg-logo="" group-title="SPORTS",DRAFTKINGS NETWORK
-https://b4u.link-etvv.workers.dev/37237.m3u8
-#EXTINF:-1 tvg-id="us_chsn.us" tvg-name="CHSN" tvg-logo="" group-title="SPORTS",CHSN
-https://b4u.link-etvv.workers.dev/37525.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="PICKLEBALL TV" tvg-logo="" group-title="SPORTS",PICKLEBALL TV
-https://b4u.link-etvv.workers.dev/60264.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SWERVE SPORTS" tvg-logo="" group-title="SPORTS",SWERVE SPORTS
-https://b4u.link-etvv.workers.dev/37555.m3u8
-#EXTINF:-1 tvg-id="us_rootsportsnorthwest.us" tvg-name="ROOT SPORTS NORTTHWEST" tvg-logo="" group-title="SPORTS",ROOT SPORTS NORTTHWEST
-https://b4u.link-etvv.workers.dev/54768.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="RANGERS TV" tvg-logo="" group-title="SPORTS",RANGERS TV
-https://b4u.link-etvv.workers.dev/60205.m3u8
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO FOOTBALL" tvg-logo="" group-title="SPORTS",ASTRO FOOTBALL
-https://b4u.link-etvv.workers.dev/8525.m3u8
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORTS 2" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 2
-https://b4u.link-etvv.workers.dev/8529.m3u8
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORTS 3" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 3
-https://b4u.link-etvv.workers.dev/8533.m3u8
-#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORTS 4" tvg-logo="" group-title="SPORTS",ASTRO SUPERSPORTS 4
-https://b4u.link-etvv.workers.dev/8537.m3u8
-#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="ASTRO SUPER SPORTS 4K UHD" tvg-logo="" group-title="SPORTS",ASTRO SUPER SPORTS 4K UHD
-https://b4u.link-etvv.workers.dev/18280.m3u8
-#EXTINF:-1 tvg-id="us_altitudesport.us" tvg-name="ALTITUDE SPORTS" tvg-logo="" group-title="SPORTS",ALTITUDE SPORTS
-https://b4u.link-etvv.workers.dev/27524.m3u8
-#EXTINF:-1 tvg-id="us_beinsports.us" tvg-name="BEIN SPORTS USA" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA
-https://b4u.link-etvv.workers.dev/8420.m3u8
-#EXTINF:-1 tvg-id="ca_beinsport.ca" tvg-name="BEIN SPORTS CANADA 4K" tvg-logo="" group-title="SPORTS",BEIN SPORTS CANADA 4K
-https://b4u.link-etvv.workers.dev/8424.m3u8
-#EXTINF:-1 tvg-id="us_beinsports.us" tvg-name="BEIN SPORTS USA 1" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 1
-https://b4u.link-etvv.workers.dev/8428.m3u8
-#EXTINF:-1 tvg-id="us_beinsports.us" tvg-name="BEIN SPORTS USA 2" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 2
-https://b4u.link-etvv.workers.dev/8432.m3u8
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEIN SPORTS USA 3" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 3
-https://b4u.link-etvv.workers.dev/10913.m3u8
-#EXTINF:-1 tvg-id="us_beinsports4.us" tvg-name="BEIN SPORTS USA 4" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 4
-https://b4u.link-etvv.workers.dev/8436.m3u8
-#EXTINF:-1 tvg-id="us_beinsports5.us" tvg-name="BEIN SPORTS USA 5" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 5
-https://b4u.link-etvv.workers.dev/8440.m3u8
-#EXTINF:-1 tvg-id="us_beinsports6.us" tvg-name="BEIN SPORTS USA 6" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 6
-https://b4u.link-etvv.workers.dev/8444.m3u8
-#EXTINF:-1 tvg-id="us_beinsports7.us" tvg-name="BEIN SPORTS USA 7" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 7
-https://b4u.link-etvv.workers.dev/8448.m3u8
-#EXTINF:-1 tvg-id="us_beinsports8.us" tvg-name="BEIN SPORTS USA 8" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA 8
-https://b4u.link-etvv.workers.dev/8452.m3u8
-#EXTINF:-1 tvg-id="us_beinsportsxtra.us" tvg-name="BEIN SPORTS USA XTRA" tvg-logo="" group-title="SPORTS",BEIN SPORTS USA XTRA
-https://b4u.link-etvv.workers.dev/8456.m3u8
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS ENGLISH 1" tvg-logo="" group-title="SPORTS",BEIN SPORTS ENGLISH 1
-https://b4u.link-etvv.workers.dev/10904.m3u8
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS ENGLISH 2" tvg-logo="" group-title="SPORTS",BEIN SPORTS ENGLISH 2
-https://b4u.link-etvv.workers.dev/10907.m3u8
-#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="BEIN SPORTS ENGLISH 3" tvg-logo="" group-title="SPORTS",BEIN SPORTS ENGLISH 3
-https://b4u.link-etvv.workers.dev/10910.m3u8
-#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="BEIN SPORTS PREMIUM 1" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 1
-https://b4u.link-etvv.workers.dev/12069.m3u8
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="BEIN SPORTS PREMIUM 2" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 2
-https://b4u.link-etvv.workers.dev/12074.m3u8
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="BEIN SPORTS PREMIUM 3" tvg-logo="" group-title="SPORTS",BEIN SPORTS PREMIUM 3
-https://b4u.link-etvv.workers.dev/12079.m3u8
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR | BEIN SPORTS 1" tvg-logo="" group-title="SPORTS",FR | BEIN SPORTS 1
-https://b4u.link-etvv.workers.dev/23815.m3u8
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR | BEIN SPORTS 2" tvg-logo="" group-title="SPORTS",FR | BEIN SPORTS 2
-https://b4u.link-etvv.workers.dev/23820.m3u8
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR | BEIN SPORTS 3" tvg-logo="" group-title="SPORTS",FR | BEIN SPORTS 3
-https://b4u.link-etvv.workers.dev/23825.m3u8
-#EXTINF:-1 tvg-id="uk_tntsports1.uk" tvg-name="TNT SPORTS 1" tvg-logo="" group-title="SPORTS",TNT SPORTS 1
-https://b4u.link-etvv.workers.dev/5280.m3u8
-#EXTINF:-1 tvg-id="uk_tntsports2.uk" tvg-name="TNT SPORTS 2" tvg-logo="" group-title="SPORTS",TNT SPORTS 2
-https://b4u.link-etvv.workers.dev/5281.m3u8
-#EXTINF:-1 tvg-id="uk_tntsports3.uk" tvg-name="TNT SPORTS 3" tvg-logo="" group-title="SPORTS",TNT SPORTS 3
-https://b4u.link-etvv.workers.dev/5282.m3u8
-#EXTINF:-1 tvg-id="uk_tntsports4.uk" tvg-name="TNT SPORTS 4" tvg-logo="" group-title="SPORTS",TNT SPORTS 4
-https://b4u.link-etvv.workers.dev/5283.m3u8
-#EXTINF:-1 tvg-id="uk_tntsports5.uk" tvg-name="TNT SPORTS 5" tvg-logo="" group-title="SPORTS",TNT SPORTS 5
-https://b4u.link-etvv.workers.dev/59827.m3u8
-#EXTINF:-1 tvg-id="us_cbssportsnetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="SPORTS",CBS SPORTS NETWORK
-https://b4u.link-etvv.workers.dev/5220.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="CBS SPORTS GOLAZO NETWORK" tvg-logo="" group-title="SPORTS",CBS SPORTS GOLAZO NETWORK
-https://b4u.link-etvv.workers.dev/59923.m3u8
-#EXTINF:-1 tvg-id="sf_supersportvariety1.za" tvg-name="AF | SUPERSPORTS VARIETY 1" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 1
-https://b4u.link-etvv.workers.dev/4875.m3u8
-#EXTINF:-1 tvg-id="sf_supersportvariety2.za" tvg-name="AF | SUPERSPORTS VARIETY 2" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 2
-https://b4u.link-etvv.workers.dev/4905.m3u8
-#EXTINF:-1 tvg-id="sf_supersportvariety3.za" tvg-name="AF | SUPERSPORTS VARIETY 3" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 3
-https://b4u.link-etvv.workers.dev/4939.m3u8
-#EXTINF:-1 tvg-id="sf_supersportvariety4.za" tvg-name="AF | SUPERSPORTS VARIETY 4" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS VARIETY 4
-https://b4u.link-etvv.workers.dev/4889.m3u8
-#EXTINF:-1 tvg-id="sf_supersportblitz.za" tvg-name="AF | SUPERSPORTS BLITZ " tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS BLITZ 
-https://b4u.link-etvv.workers.dev/4902.m3u8
-#EXTINF:-1 tvg-id="sf_supersportpremierleague.za" tvg-name="AF | SUPERSPORTS PREMIER LEAGUE" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS PREMIER LEAGUE
-https://b4u.link-etvv.workers.dev/4965.m3u8
-#EXTINF:-1 tvg-id="sf_supersportrugby.za" tvg-name="AF | SUPERSPORTS RUGBY" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS RUGBY
-https://b4u.link-etvv.workers.dev/4930.m3u8
-#EXTINF:-1 tvg-id="sf_supersportfootball.za" tvg-name="AF | SUPERSPORTS FOOTBALL" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS FOOTBALL
-https://b4u.link-etvv.workers.dev/4877.m3u8
-#EXTINF:-1 tvg-id="sf_supersportfootballplus.za" tvg-name="AF | SUPERSPORTS PLAY" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS PLAY
-https://b4u.link-etvv.workers.dev/4885.m3u8
-#EXTINF:-1 tvg-id="sf_supersportlaliga.za" tvg-name="AF | SUPERSPORTS LA LAGIA" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS LA LAGIA
-https://b4u.link-etvv.workers.dev/4966.m3u8
-#EXTINF:-1 tvg-id="sf_supersportpsl.za" tvg-name="AF | SUPERSPORTS PSL" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS PSL
-https://b4u.link-etvv.workers.dev/4954.m3u8
-#EXTINF:-1 tvg-id="sf_supersportaction.za" tvg-name="AF | SUPERSPORTS ACTION" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS ACTION
-https://b4u.link-etvv.workers.dev/4981.m3u8
-#EXTINF:-1 tvg-id="sf_supersportmaximo1.za" tvg-name="AF | SUPERSPORTS MAXIMO" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS MAXIMO
-https://b4u.link-etvv.workers.dev/6218.m3u8
-#EXTINF:-1 tvg-id="sf_supersportgrandstand.za" tvg-name="AF | SUPERSPORTS GRANDSTAND 4K" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS GRANDSTAND 4K
-https://b4u.link-etvv.workers.dev/5918.m3u8
-#EXTINF:-1 tvg-id="sf_supersportgolf.za" tvg-name="AF | SUPERSPORTS GOLF 4K" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS GOLF 4K
-https://b4u.link-etvv.workers.dev/5347.m3u8
-#EXTINF:-1 tvg-id="sf_supersportmotorsport.za" tvg-name="AF | SUPERSPORTS MOTORSPORT 4K" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS MOTORSPORT 4K
-https://b4u.link-etvv.workers.dev/4972.m3u8
-#EXTINF:-1 tvg-id="sf_supersporttennis.za" tvg-name="AF | SUPERSPORTS TENNIS 4K" tvg-logo="" group-title="SPORTS",AF | SUPERSPORTS TENNIS 4K
-https://b4u.link-etvv.workers.dev/4895.m3u8
-#EXTINF:-1 tvg-id="us_ballysportsnorth.us" tvg-name="BALLY SPORTS NORTH 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS NORTH 4K
-https://b4u.link-etvv.workers.dev/24138.m3u8
-#EXTINF:-1 tvg-id="us_ballysportssouth.us" tvg-name="BALLY SPORTS SOUTH 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTH 4K
-https://b4u.link-etvv.workers.dev/24143.m3u8
-#EXTINF:-1 tvg-id="us_ballysportssoutheast.us" tvg-name="BALLY SPORTS SOUTHEAST 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTHEAST 4K
-https://b4u.link-etvv.workers.dev/24148.m3u8
-#EXTINF:-1 tvg-id="us_ballysportssouthwest.us" tvg-name="BALLY SPORTS SOUTHWEST 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTHWEST 4K
-https://b4u.link-etvv.workers.dev/24173.m3u8
-#EXTINF:-1 tvg-id="us_ballysportssouthwestplus.us" tvg-name="BALLY SPORTS SOUTHWEST PLUS 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTHWEST PLUS 4K
-https://b4u.link-etvv.workers.dev/24178.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="BALLY SPORTS SOUTH EXTRA 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS SOUTH EXTRA 4K
-https://b4u.link-etvv.workers.dev/24163.m3u8
-#EXTINF:-1 tvg-id="us_ballysportswest.us" tvg-name="BALLY SPORTS WEST 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS WEST 4K
-https://b4u.link-etvv.workers.dev/24158.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="BALLY SPORTS WEST PLUS 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS WEST PLUS 4K
-https://b4u.link-etvv.workers.dev/24183.m3u8
-#EXTINF:-1 tvg-id="us_ballysportsmidwest.us" tvg-name="BALLY SPORTS MIDWEST 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS MIDWEST 4K
-https://b4u.link-etvv.workers.dev/24153.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="BALLY SPORTS MIDWEST EXTRA 4K" tvg-logo="" group-title="SPORTS",BALLY SPORTS MIDWEST EXTRA 4K
-https://b4u.link-etvv.workers.dev/24168.m3u8
-#EXTINF:-1 tvg-id="us_motortrend.us" tvg-name="MOTOR TREND 4K" tvg-logo="" group-title="SPORTS",MOTOR TREND 4K
-https://b4u.link-etvv.workers.dev/23865.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPECTRUM SURF CHANNEL" tvg-logo="" group-title="SPORTS",SPECTRUM SURF CHANNEL
-https://b4u.link-etvv.workers.dev/10146.m3u8
-#EXTINF:-1 tvg-id="us_spectrumsportsnet.us" tvg-name="SPECTRUM SPORTSNET LA DODGERS" tvg-logo="" group-title="SPORTS",SPECTRUM SPORTSNET LA DODGERS
-https://b4u.link-etvv.workers.dev/10362.m3u8
-#EXTINF:-1 tvg-id="us_spectrumsportsnetla.us" tvg-name="SPECTRUM SPORTSNET LAKERS" tvg-logo="" group-title="SPORTS",SPECTRUM SPORTSNET LAKERS
-https://b4u.link-etvv.workers.dev/10365.m3u8
-#EXTINF:-1 tvg-id="us_comcastsnynewyorksportsnet.us" tvg-name="SNY NEW YORK SPORTSNET FHD" tvg-logo="" group-title="SPORTS",SNY NEW YORK SPORTSNET FHD
-https://b4u.link-etvv.workers.dev/7234.m3u8
-#EXTINF:-1 tvg-id="us_atandtsportsnetrockymountain.us" tvg-name="AT&T SPORTSNET ROCKY MOUNTAIN" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET ROCKY MOUNTAIN
-https://b4u.link-etvv.workers.dev/10743.m3u8
-#EXTINF:-1 tvg-id="us_atandtsportsnetpittsburgh.us" tvg-name="AT&T SPORTSNET PITTSBURGH" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET PITTSBURGH
-https://b4u.link-etvv.workers.dev/10740.m3u8
-#EXTINF:-1 tvg-id="us_atandtsportsnetsouthwest.us" tvg-name="AT&T SPORTSNET SOUTHWEST" tvg-logo="" group-title="SPORTS",AT&T SPORTSNET SOUTHWEST
-https://b4u.link-etvv.workers.dev/10746.m3u8
-#EXTINF:-1 tvg-id="us_comcastsnynewyorksportsnet.us" tvg-name="COMCAST SPORTSNET NEW YORK" tvg-logo="" group-title="SPORTS",COMCAST SPORTSNET NEW YORK
-https://b4u.link-etvv.workers.dev/10749.m3u8
-#EXTINF:-1 tvg-id="us_elevensports.us" tvg-name="US | ELEVEN SPORTS 4K" tvg-logo="" group-title="SPORTS",US | ELEVEN SPORTS 4K
-https://b4u.link-etvv.workers.dev/23840.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL | ELEVEN SPORTS ENGLISH 4K" tvg-logo="" group-title="SPORTS",PL | ELEVEN SPORTS ENGLISH 4K
-https://b4u.link-etvv.workers.dev/23830.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL | ELEVEN SPORTS 2 ENGLISH 4K" tvg-logo="" group-title="SPORTS",PL | ELEVEN SPORTS 2 ENGLISH 4K
-https://b4u.link-etvv.workers.dev/23835.m3u8
-#EXTINF:-1 tvg-id="ca_hpitv.ca" tvg-name="HPITV" tvg-logo="" group-title="SPORTS",HPITV
-https://b4u.link-etvv.workers.dev/10125.m3u8
-#EXTINF:-1 tvg-id="ca_hpitvinternational.ca" tvg-name="HPITV INTERNATIONAL" tvg-logo="" group-title="SPORTS",HPITV INTERNATIONAL
-https://b4u.link-etvv.workers.dev/10132.m3u8
-#EXTINF:-1 tvg-id="us_fubosportsnetwork.us" tvg-name="FUBO" tvg-logo="" group-title="SPORTS",FUBO
-https://b4u.link-etvv.workers.dev/41515.m3u8
-#EXTINF:-1 tvg-id="us_foxsports1.us" tvg-name="FOX SPORTS 1 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS 1 4K
-https://b4u.link-etvv.workers.dev/8967.m3u8
-#EXTINF:-1 tvg-id="us_foxsports2.us" tvg-name="FOX SPORTS 2 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS 2 4K
-https://b4u.link-etvv.workers.dev/8974.m3u8
-#EXTINF:-1 tvg-id="foxsports3.sg" tvg-name="FOX SPORTS 3 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS 3 4K
-https://b4u.link-etvv.workers.dev/10313.m3u8
-#EXTINF:-1 tvg-id="us_foxsportsnorth.us" tvg-name="FOX SPORTS NORTH 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS NORTH 4K
-https://b4u.link-etvv.workers.dev/5244.m3u8
-#EXTINF:-1 tvg-id="us_foxsportssouth.us" tvg-name="FOX SPORTS SOUTH 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS SOUTH 4K
-https://b4u.link-etvv.workers.dev/5241.m3u8
-#EXTINF:-1 tvg-id="us_foxsportssoutheast.us" tvg-name="FOX SPORTS SOUTHEAST 4K (GEORGIA)" tvg-logo="" group-title="SPORTS",FOX SPORTS SOUTHEAST 4K (GEORGIA)
-https://b4u.link-etvv.workers.dev/5240.m3u8
-#EXTINF:-1 tvg-id="us_foxsportswest.us" tvg-name="FOX SPORTS WEST 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS WEST 4K
-https://b4u.link-etvv.workers.dev/10295.m3u8
-#EXTINF:-1 tvg-id="us_foxsportssouthwest.us" tvg-name="FOX SPORTS SOUTHWEST 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS SOUTHWEST 4K
-https://b4u.link-etvv.workers.dev/5239.m3u8
-#EXTINF:-1 tvg-id="us_foxsportswestprimeticket.us" tvg-name="FOX SPORTS PRIME TICKET 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS PRIME TICKET 4K
-https://b4u.link-etvv.workers.dev/5248.m3u8
-#EXTINF:-1 tvg-id="us_foxsportsoklahoma.us" tvg-name="FOX SPORTS OKLAHOMA 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS OKLAHOMA 4K
-https://b4u.link-etvv.workers.dev/10298.m3u8
-#EXTINF:-1 tvg-id="us_foxsportsarizona.us" tvg-name="FOX SPORTS ARIZONA 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS ARIZONA 4K
-https://b4u.link-etvv.workers.dev/5247.m3u8
-#EXTINF:-1 tvg-id="us_foxsportssun.us" tvg-name="FOX SPORTS SUN 4K (SOUTH FLORIDA)" tvg-logo="" group-title="SPORTS",FOX SPORTS SUN 4K (SOUTH FLORIDA)
-https://b4u.link-etvv.workers.dev/5238.m3u8
-#EXTINF:-1 tvg-id="us_foxsportsflorida.us" tvg-name="FOX SPORTS FLORIDA 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS FLORIDA 4K
-https://b4u.link-etvv.workers.dev/5246.m3u8
-#EXTINF:-1 tvg-id="us_foxsportssandiego.us" tvg-name="FOX SPORTS SAN DIEGO 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS SAN DIEGO 4K
-https://b4u.link-etvv.workers.dev/5242.m3u8
-#EXTINF:-1 tvg-id="us_foxsportsmidwest.us" tvg-name="FOX SPORTS MIDWEST 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS MIDWEST 4K
-https://b4u.link-etvv.workers.dev/5245.m3u8
-#EXTINF:-1 tvg-id="us_foxsportsohiocincinnati.us" tvg-name="FOX SPORTS OHIO 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS OHIO 4K
-https://b4u.link-etvv.workers.dev/5243.m3u8
-#EXTINF:-1 tvg-id="us_foxsportsdetroit.us" tvg-name="FOX SPORTS DETROIT 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS DETROIT 4K
-https://b4u.link-etvv.workers.dev/10301.m3u8
-#EXTINF:-1 tvg-id="us_foxsportsohiocincinnati.us" tvg-name="FOX SPORTS CINCINNATI 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS CINCINNATI 4K
-https://b4u.link-etvv.workers.dev/10304.m3u8
-#EXTINF:-1 tvg-id="us_foxsportswisconsin.us" tvg-name="FOX SPORTS WISCONSIN 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS WISCONSIN 4K
-https://b4u.link-etvv.workers.dev/5236.m3u8
-#EXTINF:-1 tvg-id="us_foxsportstennessee.us" tvg-name="FOX SPORTS TENNESSEE 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS TENNESSEE 4K
-https://b4u.link-etvv.workers.dev/10307.m3u8
-#EXTINF:-1 tvg-id="us_foxsportssouthcarolinas.us" tvg-name="FOX SPORTS CAROLINAS 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS CAROLINAS 4K
-https://b4u.link-etvv.workers.dev/10310.m3u8
-#EXTINF:-1 tvg-id="us_foxmidwestkansascity.us" tvg-name="FOX SPORTS KANSAS CITY 4K" tvg-logo="" group-title="SPORTS",FOX SPORTS KANSAS CITY 4K
-https://b4u.link-etvv.workers.dev/5237.m3u8
-#EXTINF:-1 tvg-id="foxsportsnews.au" tvg-name="FOX SPORTS NEWS AU" tvg-logo="" group-title="SPORTS",FOX SPORTS NEWS AU
-https://b4u.link-etvv.workers.dev/5359.m3u8
-#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="FOX SPORTS 501 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 501 AU
-https://b4u.link-etvv.workers.dev/5365.m3u8
-#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="FOX SPORTS 502 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 502 AU
-https://b4u.link-etvv.workers.dev/5364.m3u8
-#EXTINF:-1 tvg-id="foxsports503.au" tvg-name="FOX SPORTS 503 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 503 AU
-https://b4u.link-etvv.workers.dev/5363.m3u8
-#EXTINF:-1 tvg-id="foxsports504hd.au" tvg-name="FOX SPORTS 504 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 504 AU
-https://b4u.link-etvv.workers.dev/5362.m3u8
-#EXTINF:-1 tvg-id="foxsports505.au" tvg-name="FOX SPORTS 505 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 505 AU
-https://b4u.link-etvv.workers.dev/5360.m3u8
-#EXTINF:-1 tvg-id="foxsports506.au" tvg-name="FOX SPORTS 506 AU" tvg-logo="" group-title="SPORTS",FOX SPORTS 506 AU
-https://b4u.link-etvv.workers.dev/5361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 1" tvg-logo="" group-title="SPORTS",AU | OPTUS 1
-https://b4u.link-etvv.workers.dev/40645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 2" tvg-logo="" group-title="SPORTS",AU | OPTUS 2
-https://b4u.link-etvv.workers.dev/40651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 3" tvg-logo="" group-title="SPORTS",AU | OPTUS 3
-https://b4u.link-etvv.workers.dev/40657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 4" tvg-logo="" group-title="SPORTS",AU | OPTUS 4
-https://b4u.link-etvv.workers.dev/40663.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 5" tvg-logo="" group-title="SPORTS",AU | OPTUS 5
-https://b4u.link-etvv.workers.dev/40669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 6" tvg-logo="" group-title="SPORTS",AU | OPTUS 6
-https://b4u.link-etvv.workers.dev/40675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 7" tvg-logo="" group-title="SPORTS",AU | OPTUS 7
-https://b4u.link-etvv.workers.dev/40681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 8" tvg-logo="" group-title="SPORTS",AU | OPTUS 8
-https://b4u.link-etvv.workers.dev/40687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 9" tvg-logo="" group-title="SPORTS",AU | OPTUS 9
-https://b4u.link-etvv.workers.dev/40693.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 10" tvg-logo="" group-title="SPORTS",AU | OPTUS 10
-https://b4u.link-etvv.workers.dev/40699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 11" tvg-logo="" group-title="SPORTS",AU | OPTUS 11
-https://b4u.link-etvv.workers.dev/40705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU | OPTUS 12" tvg-logo="" group-title="SPORTS",AU | OPTUS 12
-https://b4u.link-etvv.workers.dev/40711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 1 4K
-https://b4u.link-etvv.workers.dev/18307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 2 4K
-https://b4u.link-etvv.workers.dev/18312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 3 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 3 4K
-https://b4u.link-etvv.workers.dev/18302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 4 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 4 4K
-https://b4u.link-etvv.workers.dev/18317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 5 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV 5 4K
-https://b4u.link-etvv.workers.dev/18322.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 1 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 1 4K
-https://b4u.link-etvv.workers.dev/11032.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 2 4K
-https://b4u.link-etvv.workers.dev/11035.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 3 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 3 4K
-https://b4u.link-etvv.workers.dev/11038.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 4 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 4 4K
-https://b4u.link-etvv.workers.dev/11041.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 5 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 5 4K
-https://b4u.link-etvv.workers.dev/11044.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 6 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 6 4K
-https://b4u.link-etvv.workers.dev/11047.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 7 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 7 4K
-https://b4u.link-etvv.workers.dev/11050.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="SPECIAL EVENT PPV 8 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",SPECIAL EVENT PPV 8 4K
-https://b4u.link-etvv.workers.dev/11053.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC FIGHT PASS HD" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC FIGHT PASS HD
-https://b4u.link-etvv.workers.dev/5336.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV MAIN CARD 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV MAIN CARD 4K
-https://b4u.link-etvv.workers.dev/10734.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV MAIN CARD HD" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV MAIN CARD HD
-https://b4u.link-etvv.workers.dev/10737.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 1 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 1 4K
-https://b4u.link-etvv.workers.dev/5327.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 2 4K
-https://b4u.link-etvv.workers.dev/5328.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 3 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 3 4K
-https://b4u.link-etvv.workers.dev/5329.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 4 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 4 4K
-https://b4u.link-etvv.workers.dev/5330.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 5 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 5 4K
-https://b4u.link-etvv.workers.dev/5331.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 6 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 6 4K
-https://b4u.link-etvv.workers.dev/11017.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 7 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 7 4K
-https://b4u.link-etvv.workers.dev/11020.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 8 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 8 4K
-https://b4u.link-etvv.workers.dev/11023.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 9 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 9 4K
-https://b4u.link-etvv.workers.dev/11026.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="UFC PPV 10 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",UFC PPV 10 4K
-https://b4u.link-etvv.workers.dev/11029.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="PPV MMA 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV MMA 2 4K
-https://b4u.link-etvv.workers.dev/11003.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="PPV: BOXING 1 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV: BOXING 1 4K
-https://b4u.link-etvv.workers.dev/5337.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="PPV: BOXING 2 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV: BOXING 2 4K
-https://b4u.link-etvv.workers.dev/5338.m3u8
-#EXTINF:-1 tvg-id="glotv" tvg-name="PPV: BOXING 3 4K" tvg-logo="" group-title="SPORTS | PPV EVENTS",PPV: BOXING 3 4K
-https://b4u.link-etvv.workers.dev/5339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 1" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 1
-https://b4u.link-etvv.workers.dev/24073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 2" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 2
-https://b4u.link-etvv.workers.dev/24078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 3" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 3
-https://b4u.link-etvv.workers.dev/24083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 4" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 4
-https://b4u.link-etvv.workers.dev/24088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 5" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 5
-https://b4u.link-etvv.workers.dev/24093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 6" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 6
-https://b4u.link-etvv.workers.dev/24098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 7" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 7
-https://b4u.link-etvv.workers.dev/24103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 8" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 8
-https://b4u.link-etvv.workers.dev/24108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 9" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 9
-https://b4u.link-etvv.workers.dev/24113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 10" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 10
-https://b4u.link-etvv.workers.dev/24118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 11" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 11
-https://b4u.link-etvv.workers.dev/24123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 12" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 12
-https://b4u.link-etvv.workers.dev/24128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 13" tvg-logo="" group-title="SPORTS | PPV EVENTS",PEACOCK EVENT 13
-https://b4u.link-etvv.workers.dev/24133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 1" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 1
-https://b4u.link-etvv.workers.dev/41521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 2" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 2
-https://b4u.link-etvv.workers.dev/41527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 3" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 3
-https://b4u.link-etvv.workers.dev/41533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 4" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 4
-https://b4u.link-etvv.workers.dev/41539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUGBY PASS EVENT 5" tvg-logo="" group-title="SPORTS | PPV EVENTS",RUGBY PASS EVENT 5
-https://b4u.link-etvv.workers.dev/41545.m3u8
-#EXTINF:-1 tvg-id="us_mavtv.us" tvg-name="RACER TV" tvg-logo="" group-title="SPORTS",RACER TV
-https://b4u.link-etvv.workers.dev/7233.m3u8
-#EXTINF:-1 tvg-id="us_madisonsquaregarden.us" tvg-name="MSG FHD" tvg-logo="" group-title="SPORTS",MSG FHD
-https://b4u.link-etvv.workers.dev/7170.m3u8
-#EXTINF:-1 tvg-id="us_madisonsquaregarden2.us" tvg-name="MSG 2 FHD" tvg-logo="" group-title="SPORTS",MSG 2 FHD
-https://b4u.link-etvv.workers.dev/7171.m3u8
+
 #EXTINF:-1 tvg-id="us_madisonsquaregardenplus.us" tvg-name="MSG PLUS FHD" tvg-logo="" group-title="SPORTS",MSG PLUS FHD
 https://b4u.link-etvv.workers.dev/7172.m3u8
 #EXTINF:-1 tvg-id="us_madisonsquaregardenplussyracuse.us" tvg-name="MSG 2 PLUS FHD" tvg-logo="" group-title="SPORTS",MSG 2 PLUS FHD
